@@ -1,0 +1,502 @@
+﻿Order ID,Order Date,Customer Name,City,State,Sales Rep,Region,Box Type,Unit Price,Quantity,Extended Price,Payment Terms,Order Status
+100001,07/23/2025,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Northeast,Medium Box,$8.00,"1,075","$8,600.00",Net 45,Invoiced
+100002,05/13/2026,Blue Ridge Logistics,Charlotte,NC,David Kim,West,Large Box,$12.00,"1,725","$20,700.00",Net 30,Invoiced
+100003,11/26/2025,Frontier Consumer Supply,Albuquerque,NM,Tom Sullivan,Northeast,Medium Box,$8.00,"1,275","$10,200.00",Net 30,Invoiced
+100004,09/22/2025,Ironwood Distribution Inc,Indianapolis,IN,Tom Sullivan,Midwest,Small Box,$6.00,"1,950","$11,700.00",Net 45,Shipped
+100005,05/22/2026,Midwest Supply Chain Inc,Chicago,IL,Tom Sullivan,Southeast,Medium Box,$8.00,"1,400","$11,200.00",Net 30,Processing
+100006,06/18/2026,Silverline Consumer Brands,Denver,CO,David Kim,Northeast,Large Box,$12.00,"1,850","$22,200.00",Net 30,Delivered
+100007,11/15/2025,Pinnacle Distribution Corp,Atlanta,GA,Brian Castillo,Midwest,Large Box,$12.00,"1,675","$20,100.00",Net 30,Pending
+100008,05/26/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Angela Brooks,Southeast,Large Box,$12.00,"1,750","$21,000.00",Net 45,Delivered
+100009,04/26/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Brian Castillo,Southwest,Medium Box,$8.00,"1,225","$9,800.00",Due on Receipt,Shipped
+100010,03/10/2026,Union Pacific Warehousing,Omaha,NE,Karen Whitfield,Northeast,Large Box,$12.00,"1,650","$19,800.00",Net 30,Invoiced
+100011,05/02/2026,Pinnacle Distribution Corp,Atlanta,GA,Rachel Ortiz,West,Medium Box,$8.00,"1,550","$12,400.00",Net 30,Invoiced
+100012,07/06/2025,Crescent Manufacturing Group,New Orleans,LA,Marcus Doyle,West,Medium Box,$8.00,"1,775","$14,200.00",Net 45,Shipped
+100013,02/08/2026,Midwest Supply Chain Inc,Chicago,IL,Karen Whitfield,Midwest,Small Box,$6.00,"1,775","$10,650.00",Net 30,Processing
+100014,05/17/2026,Horizon Consumer Goods,Phoenix,AZ,Nicole Fenwick,West,Large Box,$12.00,"1,150","$13,800.00",Net 30,Shipped
+100015,03/29/2026,Highland Retail Partners,Salt Lake City,UT,Brian Castillo,Midwest,Medium Box,$8.00,"1,025","$8,200.00",Net 30,Delivered
+100016,12/05/2025,Summit Manufacturing LLC,Pittsburgh,PA,Tom Sullivan,West,Large Box,$12.00,"1,075","$12,900.00",Net 45,Invoiced
+100017,03/30/2026,Sunbelt Distribution LLC,Tampa,FL,Priya Natarajan,Southwest,Small Box,$6.00,"1,175","$7,050.00",Net 30,Pending
+100018,02/02/2026,Frontier Consumer Supply,Albuquerque,NM,Nicole Fenwick,Southeast,Small Box,$6.00,"1,325","$7,950.00",Net 30,Invoiced
+100019,01/08/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Nicole Fenwick,Southwest,Large Box,$12.00,"1,250","$15,000.00",Net 30,Delivered
+100020,04/28/2026,Silverline Consumer Brands,Denver,CO,Brian Castillo,Southeast,Large Box,$12.00,"1,075","$12,900.00",Net 45,Shipped
+100021,08/04/2025,Highland Retail Partners,Salt Lake City,UT,David Kim,Northeast,Small Box,$6.00,"1,250","$7,500.00",Net 30,Delivered
+100022,04/03/2026,Coastal Retail Holdings,Charleston,SC,Brian Castillo,West,Medium Box,$8.00,"1,250","$10,000.00",Net 60,Invoiced
+100023,10/06/2025,Union Pacific Warehousing,Omaha,NE,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,425","$11,400.00",Net 30,Invoiced
+100024,06/10/2026,Crescent Manufacturing Group,New Orleans,LA,Marcus Doyle,Northeast,Medium Box,$8.00,"1,750","$14,000.00",Net 30,Pending
+100025,11/05/2025,Midwest Supply Chain Inc,Chicago,IL,Nicole Fenwick,Southwest,Large Box,$12.00,"1,425","$17,100.00",Net 30,Delivered
+100026,08/08/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Nicole Fenwick,Northeast,Large Box,$12.00,"1,675","$20,100.00",Due on Receipt,Invoiced
+100027,08/17/2025,Highland Retail Partners,Salt Lake City,UT,Tom Sullivan,Southeast,Medium Box,$8.00,"1,500","$12,000.00",Net 30,Pending
+100028,07/31/2025,Midwest Supply Chain Inc,Chicago,IL,Karen Whitfield,Southwest,Medium Box,$8.00,"1,950","$15,600.00",Net 60,Delivered
+100029,02/02/2026,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Southwest,Large Box,$12.00,"1,200","$14,400.00",Net 30,Processing
+100030,04/23/2026,Granite State Packaging,Manchester,NH,Karen Whitfield,Midwest,Large Box,$12.00,"1,050","$12,600.00",Net 45,Delivered
+100031,03/29/2026,Midwest Supply Chain Inc,Chicago,IL,Nicole Fenwick,Northeast,Large Box,$12.00,"1,075","$12,900.00",Net 45,Invoiced
+100032,10/29/2025,Redwood Retail Group,Sacramento,CA,Brian Castillo,Southeast,Small Box,$6.00,"1,600","$9,600.00",Net 30,Shipped
+100033,06/02/2026,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Midwest,Medium Box,$8.00,"1,200","$9,600.00",Net 45,Delivered
+100034,11/13/2025,Bluegrass Wholesale Co,Louisville,KY,Angela Brooks,Southwest,Medium Box,$8.00,"1,950","$15,600.00",Net 60,Shipped
+100035,02/20/2026,Vanguard Retail Supply,Minneapolis,MN,Brian Castillo,Northeast,Large Box,$12.00,"1,550","$18,600.00",Net 30,Delivered
+100036,12/26/2025,Blue Ridge Logistics,Charlotte,NC,Tom Sullivan,Midwest,Medium Box,$8.00,"1,150","$9,200.00",Net 30,Delivered
+100037,12/02/2025,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Northeast,Small Box,$6.00,"1,825","$10,950.00",Net 45,Processing
+100038,08/23/2025,Highland Retail Partners,Salt Lake City,UT,Priya Natarajan,Midwest,Large Box,$12.00,"1,900","$22,800.00",Net 30,Invoiced
+100039,11/17/2025,Horizon Consumer Goods,Phoenix,AZ,Tom Sullivan,Midwest,Large Box,$12.00,"1,700","$20,400.00",Net 45,Delivered
+100040,03/08/2026,Summit Manufacturing LLC,Pittsburgh,PA,Karen Whitfield,Northeast,Small Box,$6.00,"1,425","$8,550.00",Net 60,Shipped
+100041,12/18/2025,Sunbelt Distribution LLC,Tampa,FL,Angela Brooks,Southeast,Small Box,$6.00,"1,450","$8,700.00",Net 45,Delivered
+100042,07/05/2025,Coastal Retail Holdings,Charleston,SC,Priya Natarajan,West,Large Box,$12.00,"1,850","$22,200.00",Net 30,Invoiced
+100043,02/06/2026,Coastal Retail Holdings,Charleston,SC,Angela Brooks,Midwest,Large Box,$12.00,"1,925","$23,100.00",Net 30,Invoiced
+100044,06/07/2026,Union Pacific Warehousing,Omaha,NE,Nicole Fenwick,Southwest,Small Box,$6.00,"1,775","$10,650.00",Net 30,Processing
+100045,09/22/2025,Frontier Consumer Supply,Albuquerque,NM,Priya Natarajan,Southwest,Large Box,$12.00,"1,175","$14,100.00",Net 45,Delivered
+100046,01/27/2026,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Midwest,Large Box,$12.00,"1,800","$21,600.00",Net 45,Delivered
+100047,07/20/2025,Cornerstone Supply Co,Richmond,VA,Tom Sullivan,Southeast,Medium Box,$8.00,"1,350","$10,800.00",Net 30,Invoiced
+100048,10/25/2025,Summit Manufacturing LLC,Pittsburgh,PA,Tom Sullivan,Southwest,Medium Box,$8.00,"1,275","$10,200.00",Net 60,Processing
+100049,11/20/2025,Ironwood Distribution Inc,Indianapolis,IN,Nicole Fenwick,Southwest,Small Box,$6.00,"1,875","$11,250.00",Net 45,Processing
+100050,08/29/2025,Blue Ridge Logistics,Charlotte,NC,Angela Brooks,Southeast,Small Box,$6.00,"1,975","$11,850.00",Due on Receipt,Shipped
+100051,05/02/2026,Lakeshore Packaging Solutions,Milwaukee,WI,David Kim,Southwest,Small Box,$6.00,"1,525","$9,150.00",Net 30,Pending
+100052,10/06/2025,Summit Manufacturing LLC,Pittsburgh,PA,Rachel Ortiz,Northeast,Small Box,$6.00,"1,950","$11,700.00",Net 60,Invoiced
+100053,06/09/2026,Midwest Supply Chain Inc,Chicago,IL,Rachel Ortiz,Northeast,Small Box,$6.00,"1,950","$11,700.00",Net 30,Delivered
+100054,09/02/2025,Timberline Wholesale Inc,Boise,ID,Angela Brooks,West,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Delivered
+100055,11/29/2025,Silverline Consumer Brands,Denver,CO,Tom Sullivan,Southwest,Small Box,$6.00,"1,950","$11,700.00",Net 30,Invoiced
+100056,09/28/2025,Heartland Shipping Co,Des Moines,IA,Angela Brooks,Southwest,Small Box,$6.00,"1,850","$11,100.00",Net 30,Delivered
+100057,02/06/2026,Metro Fulfillment Services,Newark,NJ,Brian Castillo,Midwest,Medium Box,$8.00,"1,450","$11,600.00",Net 30,Delivered
+100058,02/28/2026,Metro Fulfillment Services,Newark,NJ,Priya Natarajan,Northeast,Medium Box,$8.00,"1,525","$12,200.00",Net 45,Invoiced
+100059,08/17/2025,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Midwest,Large Box,$12.00,"1,825","$21,900.00",Net 30,Shipped
+100060,11/03/2025,Frontier Consumer Supply,Albuquerque,NM,Brian Castillo,Northeast,Medium Box,$8.00,"1,425","$11,400.00",Net 60,Invoiced
+100061,06/22/2026,Bluegrass Wholesale Co,Louisville,KY,Rachel Ortiz,Southeast,Large Box,$12.00,"1,675","$20,100.00",Net 45,Pending
+100062,08/24/2025,Sunbelt Distribution LLC,Tampa,FL,Tom Sullivan,Southeast,Small Box,$6.00,"1,525","$9,150.00",Net 30,Invoiced
+100063,09/01/2025,Lakeshore Packaging Solutions,Milwaukee,WI,James Peterson,West,Small Box,$6.00,"1,600","$9,600.00",Net 30,Invoiced
+100064,02/12/2026,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Southwest,Small Box,$6.00,"1,450","$8,700.00",Net 60,Invoiced
+100065,03/01/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Tom Sullivan,Midwest,Small Box,$6.00,"1,500","$9,000.00",Net 45,Delivered
+100066,08/09/2025,Timberline Wholesale Inc,Boise,ID,Tom Sullivan,Midwest,Medium Box,$8.00,"1,325","$10,600.00",Net 60,Shipped
+100067,09/16/2025,Summit Manufacturing LLC,Pittsburgh,PA,Priya Natarajan,Southeast,Large Box,$12.00,"1,425","$17,100.00",Net 30,Delivered
+100068,01/29/2026,Pinnacle Distribution Corp,Atlanta,GA,Rachel Ortiz,Southwest,Small Box,$6.00,"1,975","$11,850.00",Net 45,Pending
+100069,04/21/2026,Ironwood Distribution Inc,Indianapolis,IN,Karen Whitfield,Midwest,Medium Box,$8.00,"1,775","$14,200.00",Net 30,Pending
+100070,01/31/2026,Silverline Consumer Brands,Denver,CO,Nicole Fenwick,West,Large Box,$12.00,"1,500","$18,000.00",Net 30,Delivered
+100071,07/15/2025,Bluegrass Wholesale Co,Louisville,KY,Rachel Ortiz,Southeast,Medium Box,$8.00,"1,950","$15,600.00",Net 30,Invoiced
+100072,07/14/2025,Highland Retail Partners,Salt Lake City,UT,Brian Castillo,West,Small Box,$6.00,"1,025","$6,150.00",Net 30,Delivered
+100073,02/22/2026,Midwest Supply Chain Inc,Chicago,IL,Angela Brooks,Southwest,Medium Box,$8.00,"1,225","$9,800.00",Net 30,Delivered
+100074,01/11/2026,Horizon Consumer Goods,Phoenix,AZ,Rachel Ortiz,Midwest,Large Box,$12.00,"1,475","$17,700.00",Net 30,Delivered
+100075,12/27/2025,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Northeast,Large Box,$12.00,"1,975","$23,700.00",Net 30,Invoiced
+100076,05/15/2026,Coastal Retail Holdings,Charleston,SC,Priya Natarajan,Southwest,Small Box,$6.00,"1,125","$6,750.00",Net 45,Delivered
+100077,06/24/2026,Summit Manufacturing LLC,Pittsburgh,PA,David Kim,Southeast,Small Box,$6.00,"1,625","$9,750.00",Due on Receipt,Invoiced
+100078,09/22/2025,Frontier Consumer Supply,Albuquerque,NM,Marcus Doyle,West,Large Box,$12.00,"1,950","$23,400.00",Net 30,Invoiced
+100079,01/09/2026,Redwood Retail Group,Sacramento,CA,Tom Sullivan,Northeast,Small Box,$6.00,"1,700","$10,200.00",Net 60,Delivered
+100080,06/22/2026,Sunbelt Distribution LLC,Tampa,FL,Brian Castillo,Northeast,Small Box,$6.00,"1,800","$10,800.00",Net 30,Delivered
+100081,06/04/2026,Ironwood Distribution Inc,Indianapolis,IN,Nicole Fenwick,Midwest,Large Box,$12.00,"1,875","$22,500.00",Net 30,Delivered
+100082,02/07/2026,Frontier Consumer Supply,Albuquerque,NM,James Peterson,Southeast,Medium Box,$8.00,"1,175","$9,400.00",Net 45,Processing
+100083,11/16/2025,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,450","$11,600.00",Net 60,Invoiced
+100084,12/13/2025,Cornerstone Supply Co,Richmond,VA,Marcus Doyle,Midwest,Medium Box,$8.00,"1,250","$10,000.00",Net 60,Invoiced
+100085,06/08/2026,Ironwood Distribution Inc,Indianapolis,IN,Karen Whitfield,Southwest,Medium Box,$8.00,"1,175","$9,400.00",Net 30,Delivered
+100086,11/10/2025,Cascade Industrial Supply,Portland,OR,Brian Castillo,Midwest,Small Box,$6.00,"1,000","$6,000.00",Net 45,Shipped
+100087,11/01/2025,Timberline Wholesale Inc,Boise,ID,James Peterson,West,Large Box,$12.00,"1,700","$20,400.00",Net 30,Invoiced
+100088,02/15/2026,Metro Fulfillment Services,Newark,NJ,Marcus Doyle,Midwest,Large Box,$12.00,"1,425","$17,100.00",Net 45,Delivered
+100089,04/24/2026,Ironwood Distribution Inc,Indianapolis,IN,Nicole Fenwick,West,Medium Box,$8.00,"1,425","$11,400.00",Due on Receipt,Invoiced
+100090,12/28/2025,Timberline Wholesale Inc,Boise,ID,Angela Brooks,Midwest,Medium Box,$8.00,"1,225","$9,800.00",Net 30,Shipped
+100091,08/31/2025,Granite State Packaging,Manchester,NH,Priya Natarajan,Southeast,Large Box,$12.00,"1,750","$21,000.00",Net 30,Invoiced
+100092,03/26/2026,Heartland Shipping Co,Des Moines,IA,Marcus Doyle,Southeast,Medium Box,$8.00,"1,225","$9,800.00",Net 30,Delivered
+100093,06/28/2026,Silverline Consumer Brands,Denver,CO,Angela Brooks,Northeast,Large Box,$12.00,"1,575","$18,900.00",Net 30,Processing
+100094,05/23/2026,Cornerstone Supply Co,Richmond,VA,James Peterson,Northeast,Large Box,$12.00,"1,575","$18,900.00",Net 30,Delivered
+100095,12/22/2025,Midwest Supply Chain Inc,Chicago,IL,Karen Whitfield,Midwest,Medium Box,$8.00,"1,125","$9,000.00",Net 60,Delivered
+100096,08/07/2025,Heartland Shipping Co,Des Moines,IA,Karen Whitfield,Southeast,Large Box,$12.00,"1,825","$21,900.00",Net 45,Delivered
+100097,11/05/2025,Coastal Retail Holdings,Charleston,SC,Rachel Ortiz,West,Small Box,$6.00,"1,800","$10,800.00",Net 45,Invoiced
+100098,01/11/2026,Lakeshore Packaging Solutions,Milwaukee,WI,James Peterson,Midwest,Small Box,$6.00,"1,450","$8,700.00",Net 30,Invoiced
+100099,05/09/2026,Frontier Consumer Supply,Albuquerque,NM,Marcus Doyle,Southeast,Small Box,$6.00,"1,225","$7,350.00",Net 30,Shipped
+100100,10/31/2025,Midwest Supply Chain Inc,Chicago,IL,Marcus Doyle,Southeast,Large Box,$12.00,"1,425","$17,100.00",Net 30,Invoiced
+100101,11/27/2025,Meridian Logistics Group,Columbus,OH,Angela Brooks,Midwest,Small Box,$6.00,"1,875","$11,250.00",Net 30,Invoiced
+100102,11/13/2025,Metro Fulfillment Services,Newark,NJ,Brian Castillo,Southeast,Medium Box,$8.00,"1,125","$9,000.00",Net 45,Invoiced
+100103,11/14/2025,Metro Fulfillment Services,Newark,NJ,Marcus Doyle,Northeast,Large Box,$12.00,"1,800","$21,600.00",Net 30,Invoiced
+100104,04/18/2026,Highland Retail Partners,Salt Lake City,UT,James Peterson,Northeast,Medium Box,$8.00,"1,700","$13,600.00",Net 30,Delivered
+100105,11/17/2025,Prairie State Logistics,Kansas City,MO,James Peterson,Southwest,Large Box,$12.00,"1,600","$19,200.00",Net 30,Delivered
+100106,12/13/2025,Heartland Shipping Co,Des Moines,IA,Karen Whitfield,Northeast,Large Box,$12.00,"1,975","$23,700.00",Net 45,Pending
+100107,04/27/2026,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,West,Large Box,$12.00,"1,775","$21,300.00",Net 60,Delivered
+100108,05/30/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Angela Brooks,Southeast,Small Box,$6.00,"1,450","$8,700.00",Net 45,Delivered
+100109,08/16/2025,Prairie State Logistics,Kansas City,MO,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Shipped
+100110,01/27/2026,Timberline Wholesale Inc,Boise,ID,Angela Brooks,Southwest,Small Box,$6.00,"1,025","$6,150.00",Net 30,Delivered
+100111,12/13/2025,Coastal Retail Holdings,Charleston,SC,Rachel Ortiz,West,Large Box,$12.00,"1,675","$20,100.00",Net 60,Delivered
+100112,07/28/2025,Midwest Supply Chain Inc,Chicago,IL,David Kim,West,Medium Box,$8.00,"1,650","$13,200.00",Net 30,Shipped
+100113,11/14/2025,Silverline Consumer Brands,Denver,CO,Angela Brooks,Southwest,Small Box,$6.00,"1,500","$9,000.00",Net 30,Processing
+100114,05/08/2026,Metro Fulfillment Services,Newark,NJ,Priya Natarajan,Midwest,Small Box,$6.00,"1,025","$6,150.00",Net 45,Shipped
+100115,08/28/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Marcus Doyle,Southeast,Medium Box,$8.00,"1,950","$15,600.00",Net 45,Delivered
+100116,11/17/2025,Redwood Retail Group,Sacramento,CA,James Peterson,Southwest,Large Box,$12.00,"1,475","$17,700.00",Net 45,Delivered
+100117,05/03/2026,Atlantic Coast Distributors,Norfolk,VA,Priya Natarajan,Northeast,Medium Box,$8.00,"1,800","$14,400.00",Net 60,Delivered
+100118,03/17/2026,Great Lakes Packaging Co,Cleveland,OH,Karen Whitfield,Midwest,Small Box,$6.00,"1,300","$7,800.00",Net 60,Invoiced
+100119,06/03/2026,Prairie State Logistics,Kansas City,MO,Priya Natarajan,Southwest,Small Box,$6.00,"1,500","$9,000.00",Net 30,Invoiced
+100120,04/05/2026,Ironwood Distribution Inc,Indianapolis,IN,David Kim,Southeast,Small Box,$6.00,"1,250","$7,500.00",Net 45,Delivered
+100121,01/27/2026,Meridian Logistics Group,Columbus,OH,James Peterson,Southwest,Medium Box,$8.00,"1,675","$13,400.00",Net 60,Invoiced
+100122,09/16/2025,Prairie State Logistics,Kansas City,MO,Karen Whitfield,Southeast,Small Box,$6.00,"2,000","$12,000.00",Net 45,Pending
+100123,02/11/2026,Union Pacific Warehousing,Omaha,NE,James Peterson,Northeast,Small Box,$6.00,"1,150","$6,900.00",Net 30,Invoiced
+100124,09/18/2025,Pinnacle Distribution Corp,Atlanta,GA,Angela Brooks,Midwest,Small Box,$6.00,"1,700","$10,200.00",Net 30,Shipped
+100125,12/16/2025,Cornerstone Supply Co,Richmond,VA,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,650","$13,200.00",Net 45,Invoiced
+100126,04/04/2026,Meridian Logistics Group,Columbus,OH,Marcus Doyle,Southeast,Small Box,$6.00,"1,700","$10,200.00",Due on Receipt,Processing
+100127,08/16/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Marcus Doyle,Northeast,Medium Box,$8.00,"1,175","$9,400.00",Net 45,Processing
+100128,07/24/2025,Cascade Industrial Supply,Portland,OR,Karen Whitfield,Midwest,Medium Box,$8.00,"1,375","$11,000.00",Net 30,Delivered
+100129,01/27/2026,Silverline Consumer Brands,Denver,CO,Priya Natarajan,Southeast,Large Box,$12.00,"1,075","$12,900.00",Net 45,Delivered
+100130,06/15/2026,Summit Manufacturing LLC,Pittsburgh,PA,Brian Castillo,Southeast,Large Box,$12.00,"1,475","$17,700.00",Net 45,Delivered
+100131,06/07/2026,Meridian Logistics Group,Columbus,OH,James Peterson,Midwest,Small Box,$6.00,"1,550","$9,300.00",Net 30,Delivered
+100132,12/24/2025,Frontier Consumer Supply,Albuquerque,NM,Angela Brooks,Southwest,Small Box,$6.00,"1,250","$7,500.00",Net 30,Delivered
+100133,01/13/2026,Cornerstone Supply Co,Richmond,VA,Marcus Doyle,Southeast,Medium Box,$8.00,"1,575","$12,600.00",Net 30,Delivered
+100134,06/24/2026,Horizon Consumer Goods,Phoenix,AZ,Rachel Ortiz,Midwest,Large Box,$12.00,"1,575","$18,900.00",Net 60,Invoiced
+100135,07/26/2025,Highland Retail Partners,Salt Lake City,UT,James Peterson,Midwest,Large Box,$12.00,"1,625","$19,500.00",Net 60,Delivered
+100136,10/06/2025,Vanguard Retail Supply,Minneapolis,MN,Priya Natarajan,Northeast,Small Box,$6.00,"1,650","$9,900.00",Net 30,Invoiced
+100137,07/18/2025,Heartland Shipping Co,Des Moines,IA,Priya Natarajan,Northeast,Medium Box,$8.00,"1,325","$10,600.00",Net 45,Shipped
+100138,09/06/2025,Metro Fulfillment Services,Newark,NJ,David Kim,West,Small Box,$6.00,"1,925","$11,550.00",Net 30,Shipped
+100139,03/04/2026,Frontier Consumer Supply,Albuquerque,NM,Angela Brooks,Midwest,Large Box,$12.00,"1,475","$17,700.00",Due on Receipt,Shipped
+100140,10/24/2025,Cornerstone Supply Co,Richmond,VA,Rachel Ortiz,West,Medium Box,$8.00,"1,100","$8,800.00",Net 60,Shipped
+100141,04/01/2026,Coastal Retail Holdings,Charleston,SC,David Kim,Midwest,Small Box,$6.00,"1,400","$8,400.00",Net 60,Processing
+100142,08/25/2025,Crescent Manufacturing Group,New Orleans,LA,James Peterson,Northeast,Small Box,$6.00,"1,900","$11,400.00",Due on Receipt,Delivered
+100143,05/09/2026,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Southwest,Small Box,$6.00,"1,300","$7,800.00",Net 45,Shipped
+100144,07/24/2025,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Southwest,Large Box,$12.00,"1,100","$13,200.00",Net 30,Delivered
+100145,01/15/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Nicole Fenwick,Southwest,Small Box,$6.00,"1,750","$10,500.00",Net 45,Pending
+100146,06/01/2026,Union Pacific Warehousing,Omaha,NE,James Peterson,West,Medium Box,$8.00,"1,950","$15,600.00",Due on Receipt,Shipped
+100147,01/06/2026,Summit Manufacturing LLC,Pittsburgh,PA,James Peterson,Southeast,Medium Box,$8.00,"1,100","$8,800.00",Due on Receipt,Delivered
+100148,05/27/2026,Ironwood Distribution Inc,Indianapolis,IN,Rachel Ortiz,Midwest,Large Box,$12.00,"2,000","$24,000.00",Net 30,Invoiced
+100149,02/18/2026,Union Pacific Warehousing,Omaha,NE,Tom Sullivan,West,Large Box,$12.00,"1,050","$12,600.00",Net 60,Delivered
+100150,09/03/2025,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Northeast,Small Box,$6.00,"1,200","$7,200.00",Net 45,Invoiced
+100151,10/28/2025,Cascade Industrial Supply,Portland,OR,Priya Natarajan,West,Large Box,$12.00,"1,275","$15,300.00",Net 60,Shipped
+100152,09/05/2025,Silverline Consumer Brands,Denver,CO,Priya Natarajan,Northeast,Small Box,$6.00,"1,875","$11,250.00",Net 30,Shipped
+100153,10/30/2025,Heartland Shipping Co,Des Moines,IA,Karen Whitfield,Southeast,Medium Box,$8.00,"1,050","$8,400.00",Net 30,Delivered
+100154,08/28/2025,Granite State Packaging,Manchester,NH,James Peterson,Southwest,Medium Box,$8.00,"1,525","$12,200.00",Net 45,Delivered
+100155,10/22/2025,Highland Retail Partners,Salt Lake City,UT,Karen Whitfield,West,Medium Box,$8.00,"1,475","$11,800.00",Net 45,Shipped
+100156,03/03/2026,Cornerstone Supply Co,Richmond,VA,Rachel Ortiz,Northeast,Medium Box,$8.00,"1,725","$13,800.00",Due on Receipt,Shipped
+100157,08/11/2025,Cascade Industrial Supply,Portland,OR,Priya Natarajan,Northeast,Large Box,$12.00,"1,275","$15,300.00",Net 45,Invoiced
+100158,06/30/2026,Cascade Industrial Supply,Portland,OR,Brian Castillo,West,Medium Box,$8.00,"1,475","$11,800.00",Net 45,Delivered
+100159,06/25/2026,Coastal Retail Holdings,Charleston,SC,Nicole Fenwick,Southeast,Medium Box,$8.00,"1,450","$11,600.00",Net 60,Delivered
+100160,02/18/2026,Redwood Retail Group,Sacramento,CA,Marcus Doyle,Midwest,Medium Box,$8.00,"1,325","$10,600.00",Net 45,Delivered
+100161,09/17/2025,Timberline Wholesale Inc,Boise,ID,James Peterson,Northeast,Large Box,$12.00,"1,850","$22,200.00",Net 30,Delivered
+100162,01/07/2026,Metro Fulfillment Services,Newark,NJ,Nicole Fenwick,Northeast,Small Box,$6.00,"1,975","$11,850.00",Net 45,Delivered
+100163,09/01/2025,Redwood Retail Group,Sacramento,CA,Rachel Ortiz,Northeast,Medium Box,$8.00,"1,625","$13,000.00",Net 30,Shipped
+100164,03/17/2026,Summit Manufacturing LLC,Pittsburgh,PA,James Peterson,Southeast,Large Box,$12.00,"1,350","$16,200.00",Net 60,Delivered
+100165,11/20/2025,Heartland Shipping Co,Des Moines,IA,Rachel Ortiz,West,Small Box,$6.00,"1,625","$9,750.00",Net 45,Invoiced
+100166,05/08/2026,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Northeast,Large Box,$12.00,"1,275","$15,300.00",Net 45,Delivered
+100167,12/21/2025,Ironwood Distribution Inc,Indianapolis,IN,Priya Natarajan,Southeast,Small Box,$6.00,"1,675","$10,050.00",Net 30,Shipped
+100168,05/21/2026,Frontier Consumer Supply,Albuquerque,NM,Marcus Doyle,West,Large Box,$12.00,"1,375","$16,500.00",Net 30,Delivered
+100169,01/06/2026,National Fulfillment Partners,Memphis,TN,David Kim,West,Small Box,$6.00,"1,075","$6,450.00",Net 60,Shipped
+100170,05/13/2026,Continental Freight Solutions,Dallas,TX,Marcus Doyle,Midwest,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Invoiced
+100171,01/29/2026,Great Lakes Packaging Co,Cleveland,OH,Nicole Fenwick,Northeast,Medium Box,$8.00,"1,450","$11,600.00",Net 30,Invoiced
+100172,04/30/2026,Prairie State Logistics,Kansas City,MO,Angela Brooks,Northeast,Large Box,$12.00,"1,400","$16,800.00",Due on Receipt,Shipped
+100173,10/13/2025,Horizon Consumer Goods,Phoenix,AZ,Tom Sullivan,Southeast,Medium Box,$8.00,"1,300","$10,400.00",Net 30,Shipped
+100174,02/06/2026,Midwest Supply Chain Inc,Chicago,IL,Rachel Ortiz,West,Small Box,$6.00,"1,225","$7,350.00",Net 45,Invoiced
+100175,12/29/2025,Pinnacle Distribution Corp,Atlanta,GA,Karen Whitfield,Southwest,Large Box,$12.00,"1,475","$17,700.00",Due on Receipt,Pending
+100176,04/21/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Rachel Ortiz,Southwest,Medium Box,$8.00,"1,125","$9,000.00",Net 30,Processing
+100177,09/26/2025,Metro Fulfillment Services,Newark,NJ,Brian Castillo,Southwest,Small Box,$6.00,"1,950","$11,700.00",Net 30,Delivered
+100178,08/24/2025,Summit Manufacturing LLC,Pittsburgh,PA,Brian Castillo,Southwest,Small Box,$6.00,"1,075","$6,450.00",Net 30,Delivered
+100179,12/21/2025,Summit Manufacturing LLC,Pittsburgh,PA,Priya Natarajan,Northeast,Small Box,$6.00,"1,650","$9,900.00",Net 30,Delivered
+100180,12/26/2025,Ironwood Distribution Inc,Indianapolis,IN,Priya Natarajan,Southeast,Large Box,$12.00,"1,150","$13,800.00",Net 30,Shipped
+100181,09/17/2025,Granite State Packaging,Manchester,NH,Marcus Doyle,Southeast,Small Box,$6.00,"1,500","$9,000.00",Net 30,Invoiced
+100182,04/23/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Brian Castillo,West,Medium Box,$8.00,"1,875","$15,000.00",Due on Receipt,Delivered
+100183,02/11/2026,Pinnacle Distribution Corp,Atlanta,GA,James Peterson,Midwest,Medium Box,$8.00,"1,600","$12,800.00",Net 30,Delivered
+100184,12/06/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Karen Whitfield,Northeast,Medium Box,$8.00,"1,850","$14,800.00",Net 30,Invoiced
+100185,08/16/2025,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,600","$12,800.00",Net 45,Invoiced
+100186,07/22/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Brian Castillo,Southeast,Medium Box,$8.00,"1,625","$13,000.00",Net 30,Shipped
+100187,08/01/2025,Lakeshore Packaging Solutions,Milwaukee,WI,David Kim,Northeast,Small Box,$6.00,"1,650","$9,900.00",Net 30,Delivered
+100188,02/10/2026,Frontier Consumer Supply,Albuquerque,NM,Nicole Fenwick,West,Small Box,$6.00,"1,150","$6,900.00",Net 30,Processing
+100189,01/15/2026,Redwood Retail Group,Sacramento,CA,David Kim,West,Large Box,$12.00,"1,800","$21,600.00",Net 45,Delivered
+100190,12/16/2025,Union Pacific Warehousing,Omaha,NE,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,750","$14,000.00",Net 60,Processing
+100191,05/05/2026,Blue Ridge Logistics,Charlotte,NC,David Kim,Northeast,Small Box,$6.00,"1,675","$10,050.00",Net 30,Delivered
+100192,06/01/2026,Timberline Wholesale Inc,Boise,ID,Rachel Ortiz,Southeast,Small Box,$6.00,"1,725","$10,350.00",Due on Receipt,Delivered
+100193,01/09/2026,Crescent Manufacturing Group,New Orleans,LA,David Kim,Southeast,Small Box,$6.00,"1,725","$10,350.00",Net 60,Invoiced
+100194,06/16/2026,Highland Retail Partners,Salt Lake City,UT,Marcus Doyle,Southwest,Small Box,$6.00,"1,375","$8,250.00",Net 30,Delivered
+100195,10/18/2025,Cascade Industrial Supply,Portland,OR,James Peterson,Southeast,Large Box,$12.00,"1,150","$13,800.00",Net 30,Delivered
+100196,08/21/2025,Atlantic Coast Distributors,Norfolk,VA,Nicole Fenwick,West,Large Box,$12.00,"1,675","$20,100.00",Net 30,Invoiced
+100197,09/06/2025,Heartland Shipping Co,Des Moines,IA,Priya Natarajan,Southeast,Large Box,$12.00,"1,850","$22,200.00",Net 45,Invoiced
+100198,09/23/2025,Timberline Wholesale Inc,Boise,ID,Karen Whitfield,Southwest,Medium Box,$8.00,"1,700","$13,600.00",Net 45,Processing
+100199,05/09/2026,Horizon Consumer Goods,Phoenix,AZ,James Peterson,Southeast,Small Box,$6.00,"1,250","$7,500.00",Net 30,Invoiced
+100200,02/26/2026,Highland Retail Partners,Salt Lake City,UT,Tom Sullivan,Midwest,Small Box,$6.00,"1,975","$11,850.00",Net 45,Delivered
+100201,11/22/2025,Sunbelt Distribution LLC,Tampa,FL,Nicole Fenwick,West,Medium Box,$8.00,"2,000","$16,000.00",Net 30,Shipped
+100202,05/06/2026,Coastal Retail Holdings,Charleston,SC,Angela Brooks,Northeast,Small Box,$6.00,"1,500","$9,000.00",Net 60,Invoiced
+100203,08/22/2025,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Northeast,Medium Box,$8.00,"1,075","$8,600.00",Net 60,Delivered
+100204,03/20/2026,Coastal Retail Holdings,Charleston,SC,Rachel Ortiz,Northeast,Large Box,$12.00,"1,825","$21,900.00",Net 30,Delivered
+100205,07/14/2025,Redwood Retail Group,Sacramento,CA,Rachel Ortiz,West,Medium Box,$8.00,"1,250","$10,000.00",Net 30,Shipped
+100206,10/23/2025,Meridian Logistics Group,Columbus,OH,Marcus Doyle,Midwest,Large Box,$12.00,"1,150","$13,800.00",Net 30,Processing
+100207,02/27/2026,Timberline Wholesale Inc,Boise,ID,Priya Natarajan,Southwest,Medium Box,$8.00,"1,625","$13,000.00",Net 30,Shipped
+100208,11/09/2025,Summit Manufacturing LLC,Pittsburgh,PA,Priya Natarajan,West,Small Box,$6.00,"1,625","$9,750.00",Net 45,Shipped
+100209,11/25/2025,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Northeast,Large Box,$12.00,"1,425","$17,100.00",Net 45,Invoiced
+100210,08/02/2025,Coastal Retail Holdings,Charleston,SC,James Peterson,West,Small Box,$6.00,"1,025","$6,150.00",Net 45,Invoiced
+100211,09/12/2025,Horizon Consumer Goods,Phoenix,AZ,Karen Whitfield,West,Medium Box,$8.00,"1,250","$10,000.00",Net 45,Shipped
+100212,06/08/2026,Union Pacific Warehousing,Omaha,NE,David Kim,Northeast,Small Box,$6.00,"1,550","$9,300.00",Net 45,Processing
+100213,04/10/2026,Meridian Logistics Group,Columbus,OH,James Peterson,Northeast,Small Box,$6.00,"1,400","$8,400.00",Due on Receipt,Delivered
+100214,07/09/2025,Ironwood Distribution Inc,Indianapolis,IN,Marcus Doyle,Midwest,Large Box,$12.00,"1,750","$21,000.00",Net 45,Shipped
+100215,04/24/2026,Granite State Packaging,Manchester,NH,David Kim,Southeast,Large Box,$12.00,"1,350","$16,200.00",Net 45,Invoiced
+100216,09/28/2025,Metro Fulfillment Services,Newark,NJ,James Peterson,Southwest,Small Box,$6.00,"1,175","$7,050.00",Net 60,Shipped
+100217,02/20/2026,Meridian Logistics Group,Columbus,OH,Tom Sullivan,Northeast,Large Box,$12.00,"1,900","$22,800.00",Net 30,Processing
+100218,03/21/2026,Redwood Retail Group,Sacramento,CA,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,025","$8,200.00",Net 60,Shipped
+100219,12/30/2025,Cornerstone Supply Co,Richmond,VA,Karen Whitfield,Midwest,Medium Box,$8.00,"1,125","$9,000.00",Net 60,Delivered
+100220,01/21/2026,Granite State Packaging,Manchester,NH,Rachel Ortiz,Midwest,Large Box,$12.00,"1,500","$18,000.00",Net 45,Delivered
+100221,03/23/2026,Great Lakes Packaging Co,Cleveland,OH,Marcus Doyle,Southwest,Large Box,$12.00,"1,450","$17,400.00",Net 45,Invoiced
+100222,04/06/2026,Horizon Consumer Goods,Phoenix,AZ,Marcus Doyle,Northeast,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Delivered
+100223,02/04/2026,Midwest Supply Chain Inc,Chicago,IL,James Peterson,Midwest,Medium Box,$8.00,"1,050","$8,400.00",Net 45,Processing
+100224,05/11/2026,Frontier Consumer Supply,Albuquerque,NM,Angela Brooks,Northeast,Large Box,$12.00,"1,675","$20,100.00",Net 45,Delivered
+100225,06/13/2026,Midwest Supply Chain Inc,Chicago,IL,Karen Whitfield,Southeast,Small Box,$6.00,"1,700","$10,200.00",Net 60,Shipped
+100226,08/04/2025,Summit Manufacturing LLC,Pittsburgh,PA,David Kim,Midwest,Medium Box,$8.00,"1,975","$15,800.00",Net 45,Invoiced
+100227,06/13/2026,Lakeshore Packaging Solutions,Milwaukee,WI,David Kim,Midwest,Medium Box,$8.00,"1,775","$14,200.00",Net 30,Shipped
+100228,01/04/2026,Redwood Retail Group,Sacramento,CA,Angela Brooks,Southeast,Large Box,$12.00,"1,025","$12,300.00",Net 45,Delivered
+100229,01/15/2026,Highland Retail Partners,Salt Lake City,UT,Marcus Doyle,Midwest,Medium Box,$8.00,"1,725","$13,800.00",Net 30,Processing
+100230,11/24/2025,Timberline Wholesale Inc,Boise,ID,James Peterson,Southeast,Large Box,$12.00,"1,150","$13,800.00",Net 60,Delivered
+100231,02/13/2026,Frontier Consumer Supply,Albuquerque,NM,David Kim,Midwest,Small Box,$6.00,"1,075","$6,450.00",Net 45,Delivered
+100232,12/01/2025,Cornerstone Supply Co,Richmond,VA,Priya Natarajan,Midwest,Small Box,$6.00,"1,225","$7,350.00",Net 30,Delivered
+100233,09/10/2025,Summit Manufacturing LLC,Pittsburgh,PA,James Peterson,Northeast,Medium Box,$8.00,"1,575","$12,600.00",Net 45,Delivered
+100234,04/09/2026,Coastal Retail Holdings,Charleston,SC,Marcus Doyle,Northeast,Medium Box,$8.00,"1,400","$11,200.00",Due on Receipt,Invoiced
+100235,03/27/2026,Redwood Retail Group,Sacramento,CA,Rachel Ortiz,West,Large Box,$12.00,"1,125","$13,500.00",Due on Receipt,Invoiced
+100236,02/16/2026,Prairie State Logistics,Kansas City,MO,Nicole Fenwick,Midwest,Large Box,$12.00,"1,900","$22,800.00",Net 60,Invoiced
+100237,04/27/2026,Midwest Supply Chain Inc,Chicago,IL,Priya Natarajan,Southwest,Small Box,$6.00,"1,925","$11,550.00",Net 60,Invoiced
+100238,03/23/2026,Coastal Retail Holdings,Charleston,SC,Priya Natarajan,Southeast,Medium Box,$8.00,"1,950","$15,600.00",Net 45,Delivered
+100239,03/23/2026,Riverside Packaging Corp,Cincinnati,OH,Marcus Doyle,Midwest,Large Box,$12.00,"1,650","$19,800.00",Due on Receipt,Delivered
+100240,05/17/2026,Horizon Consumer Goods,Phoenix,AZ,Nicole Fenwick,Northeast,Small Box,$6.00,"1,650","$9,900.00",Net 30,Processing
+100241,09/17/2025,Midwest Supply Chain Inc,Chicago,IL,Brian Castillo,West,Medium Box,$8.00,"1,850","$14,800.00",Due on Receipt,Shipped
+100242,07/15/2025,Pinnacle Distribution Corp,Atlanta,GA,Brian Castillo,Midwest,Small Box,$6.00,"1,225","$7,350.00",Net 60,Delivered
+100243,05/24/2026,Meridian Logistics Group,Columbus,OH,Nicole Fenwick,Midwest,Small Box,$6.00,"1,975","$11,850.00",Net 30,Delivered
+100244,06/16/2026,Redwood Retail Group,Sacramento,CA,James Peterson,Northeast,Small Box,$6.00,"1,050","$6,300.00",Net 30,Delivered
+100245,02/23/2026,Summit Manufacturing LLC,Pittsburgh,PA,Brian Castillo,Southeast,Medium Box,$8.00,"1,875","$15,000.00",Net 45,Invoiced
+100246,12/24/2025,Frontier Consumer Supply,Albuquerque,NM,Priya Natarajan,Midwest,Small Box,$6.00,"1,575","$9,450.00",Net 30,Delivered
+100247,09/01/2025,Great Lakes Packaging Co,Cleveland,OH,Tom Sullivan,Southeast,Large Box,$12.00,"1,050","$12,600.00",Net 30,Delivered
+100248,05/12/2026,Redwood Retail Group,Sacramento,CA,Priya Natarajan,Midwest,Small Box,$6.00,"1,750","$10,500.00",Net 30,Invoiced
+100249,03/13/2026,Frontier Consumer Supply,Albuquerque,NM,James Peterson,Southwest,Medium Box,$8.00,"1,500","$12,000.00",Net 30,Processing
+100250,03/16/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Tom Sullivan,Southeast,Small Box,$6.00,"1,350","$8,100.00",Net 30,Delivered
+100251,05/02/2026,Blue Ridge Logistics,Charlotte,NC,James Peterson,Midwest,Small Box,$6.00,"1,000","$6,000.00",Net 60,Delivered
+100252,11/13/2025,Timberline Wholesale Inc,Boise,ID,Rachel Ortiz,Midwest,Large Box,$12.00,"1,400","$16,800.00",Net 30,Invoiced
+100253,01/02/2026,Silverline Consumer Brands,Denver,CO,Marcus Doyle,Southwest,Small Box,$6.00,"1,450","$8,700.00",Net 60,Delivered
+100254,05/16/2026,Crescent Manufacturing Group,New Orleans,LA,Marcus Doyle,Southeast,Large Box,$12.00,"1,400","$16,800.00",Net 30,Processing
+100255,04/12/2026,Highland Retail Partners,Salt Lake City,UT,Priya Natarajan,Southeast,Small Box,$6.00,"1,525","$9,150.00",Net 30,Shipped
+100256,07/20/2025,Coastal Retail Holdings,Charleston,SC,David Kim,Southwest,Small Box,$6.00,"1,475","$8,850.00",Net 30,Pending
+100257,09/10/2025,Cascade Industrial Supply,Portland,OR,Brian Castillo,Midwest,Large Box,$12.00,"1,400","$16,800.00",Due on Receipt,Invoiced
+100258,12/01/2025,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,West,Small Box,$6.00,"1,500","$9,000.00",Net 45,Delivered
+100259,07/09/2025,Ironwood Distribution Inc,Indianapolis,IN,Marcus Doyle,Southwest,Small Box,$6.00,"1,325","$7,950.00",Net 60,Invoiced
+100260,06/18/2026,Vanguard Retail Supply,Minneapolis,MN,Brian Castillo,Southwest,Medium Box,$8.00,"2,000","$16,000.00",Net 45,Processing
+100261,04/23/2026,Heartland Shipping Co,Des Moines,IA,Karen Whitfield,West,Medium Box,$8.00,"1,175","$9,400.00",Net 45,Invoiced
+100262,01/11/2026,Coastal Retail Holdings,Charleston,SC,Tom Sullivan,Northeast,Small Box,$6.00,"1,975","$11,850.00",Net 45,Shipped
+100263,02/11/2026,National Fulfillment Partners,Memphis,TN,Priya Natarajan,Southwest,Small Box,$6.00,"1,200","$7,200.00",Net 30,Invoiced
+100264,02/27/2026,Blue Ridge Logistics,Charlotte,NC,Karen Whitfield,Southeast,Small Box,$6.00,"1,200","$7,200.00",Net 45,Processing
+100265,03/02/2026,Atlantic Coast Distributors,Norfolk,VA,David Kim,Southeast,Medium Box,$8.00,"1,925","$15,400.00",Net 45,Delivered
+100266,06/12/2026,Sunbelt Distribution LLC,Tampa,FL,Angela Brooks,West,Medium Box,$8.00,"1,200","$9,600.00",Due on Receipt,Delivered
+100267,11/30/2025,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,Midwest,Small Box,$6.00,"1,200","$7,200.00",Net 45,Delivered
+100268,03/03/2026,Ironwood Distribution Inc,Indianapolis,IN,Angela Brooks,Midwest,Large Box,$12.00,"1,575","$18,900.00",Net 45,Delivered
+100269,01/19/2026,Metro Fulfillment Services,Newark,NJ,Priya Natarajan,Midwest,Large Box,$12.00,"1,300","$15,600.00",Due on Receipt,Shipped
+100270,02/12/2026,Crescent Manufacturing Group,New Orleans,LA,James Peterson,Southeast,Large Box,$12.00,"1,850","$22,200.00",Net 45,Processing
+100271,06/22/2026,Great Lakes Packaging Co,Cleveland,OH,Marcus Doyle,West,Small Box,$6.00,"1,600","$9,600.00",Net 30,Shipped
+100272,03/29/2026,Summit Manufacturing LLC,Pittsburgh,PA,Tom Sullivan,Northeast,Large Box,$12.00,"1,425","$17,100.00",Net 30,Delivered
+100273,06/14/2026,Sunbelt Distribution LLC,Tampa,FL,Karen Whitfield,West,Large Box,$12.00,"1,425","$17,100.00",Net 45,Pending
+100274,03/01/2026,Prairie State Logistics,Kansas City,MO,Tom Sullivan,Midwest,Medium Box,$8.00,"1,300","$10,400.00",Net 45,Processing
+100275,08/15/2025,Crescent Manufacturing Group,New Orleans,LA,Tom Sullivan,West,Small Box,$6.00,"1,750","$10,500.00",Net 60,Shipped
+100276,09/28/2025,Redwood Retail Group,Sacramento,CA,Priya Natarajan,Northeast,Medium Box,$8.00,"1,800","$14,400.00",Net 30,Processing
+100277,11/26/2025,Blue Ridge Logistics,Charlotte,NC,Karen Whitfield,Midwest,Small Box,$6.00,"1,625","$9,750.00",Net 30,Processing
+100278,11/23/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Nicole Fenwick,West,Medium Box,$8.00,"1,900","$15,200.00",Due on Receipt,Pending
+100279,02/25/2026,Great Lakes Packaging Co,Cleveland,OH,Marcus Doyle,Midwest,Large Box,$12.00,"1,750","$21,000.00",Net 30,Delivered
+100280,10/04/2025,Meridian Logistics Group,Columbus,OH,David Kim,Midwest,Small Box,$6.00,"1,700","$10,200.00",Net 60,Shipped
+100281,05/24/2026,Riverside Packaging Corp,Cincinnati,OH,Rachel Ortiz,West,Medium Box,$8.00,"1,100","$8,800.00",Net 30,Shipped
+100282,09/10/2025,Prairie State Logistics,Kansas City,MO,Tom Sullivan,Northeast,Medium Box,$8.00,"1,400","$11,200.00",Net 30,Invoiced
+100283,12/16/2025,Horizon Consumer Goods,Phoenix,AZ,Brian Castillo,Northeast,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Delivered
+100284,06/07/2026,Coastal Retail Holdings,Charleston,SC,Angela Brooks,Southeast,Medium Box,$8.00,"1,700","$13,600.00",Net 45,Pending
+100285,06/26/2026,Sunbelt Distribution LLC,Tampa,FL,Marcus Doyle,Midwest,Medium Box,$8.00,"1,625","$13,000.00",Net 30,Processing
+100286,03/02/2026,Coastal Retail Holdings,Charleston,SC,Brian Castillo,Midwest,Medium Box,$8.00,"1,725","$13,800.00",Net 45,Delivered
+100287,04/02/2026,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Southeast,Small Box,$6.00,"1,775","$10,650.00",Net 45,Invoiced
+100288,03/27/2026,Lakeshore Packaging Solutions,Milwaukee,WI,David Kim,Northeast,Small Box,$6.00,"1,125","$6,750.00",Net 30,Delivered
+100289,03/16/2026,Summit Manufacturing LLC,Pittsburgh,PA,Nicole Fenwick,Southeast,Large Box,$12.00,"1,325","$15,900.00",Net 60,Delivered
+100290,06/14/2026,Summit Manufacturing LLC,Pittsburgh,PA,Brian Castillo,Southwest,Large Box,$12.00,"1,925","$23,100.00",Net 45,Invoiced
+100291,02/18/2026,Coastal Retail Holdings,Charleston,SC,Rachel Ortiz,Southwest,Small Box,$6.00,"1,050","$6,300.00",Net 45,Invoiced
+100292,12/05/2025,Timberline Wholesale Inc,Boise,ID,Rachel Ortiz,Midwest,Large Box,$12.00,"1,775","$21,300.00",Net 30,Shipped
+100293,02/02/2026,Cascade Industrial Supply,Portland,OR,Marcus Doyle,West,Large Box,$12.00,"1,950","$23,400.00",Net 60,Processing
+100294,02/27/2026,Meridian Logistics Group,Columbus,OH,Rachel Ortiz,Southeast,Large Box,$12.00,"1,775","$21,300.00",Net 45,Invoiced
+100295,02/01/2026,Ironwood Distribution Inc,Indianapolis,IN,Rachel Ortiz,Southwest,Medium Box,$8.00,"1,375","$11,000.00",Net 30,Processing
+100296,04/03/2026,Coastal Retail Holdings,Charleston,SC,David Kim,Northeast,Large Box,$12.00,"1,550","$18,600.00",Net 30,Shipped
+100297,10/23/2025,Metro Fulfillment Services,Newark,NJ,Karen Whitfield,Midwest,Medium Box,$8.00,"1,700","$13,600.00",Net 45,Delivered
+100298,01/11/2026,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Southwest,Medium Box,$8.00,"1,150","$9,200.00",Net 30,Processing
+100299,08/27/2025,Meridian Logistics Group,Columbus,OH,Rachel Ortiz,West,Large Box,$12.00,"1,250","$15,000.00",Net 30,Shipped
+100300,07/18/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Karen Whitfield,Southeast,Small Box,$6.00,"1,050","$6,300.00",Net 30,Delivered
+100301,10/20/2025,Granite State Packaging,Manchester,NH,Karen Whitfield,Southeast,Small Box,$6.00,"1,300","$7,800.00",Net 30,Processing
+100302,04/21/2026,National Fulfillment Partners,Memphis,TN,Brian Castillo,Midwest,Large Box,$12.00,"1,300","$15,600.00",Net 60,Processing
+100303,03/24/2026,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,Midwest,Large Box,$12.00,"1,575","$18,900.00",Due on Receipt,Pending
+100304,09/28/2025,Vanguard Retail Supply,Minneapolis,MN,Rachel Ortiz,West,Medium Box,$8.00,"1,050","$8,400.00",Due on Receipt,Processing
+100305,06/09/2026,Ironwood Distribution Inc,Indianapolis,IN,Nicole Fenwick,Midwest,Small Box,$6.00,"1,425","$8,550.00",Net 30,Delivered
+100306,10/03/2025,Granite State Packaging,Manchester,NH,James Peterson,Southeast,Large Box,$12.00,"1,300","$15,600.00",Net 60,Shipped
+100307,02/23/2026,Highland Retail Partners,Salt Lake City,UT,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,575","$12,600.00",Net 45,Delivered
+100308,11/08/2025,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Southwest,Medium Box,$8.00,"1,100","$8,800.00",Net 45,Invoiced
+100309,07/27/2025,Great Lakes Packaging Co,Cleveland,OH,Brian Castillo,West,Large Box,$12.00,"1,900","$22,800.00",Net 30,Invoiced
+100310,04/27/2026,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Southeast,Medium Box,$8.00,"1,225","$9,800.00",Net 60,Delivered
+100311,07/08/2025,Summit Manufacturing LLC,Pittsburgh,PA,Tom Sullivan,Northeast,Small Box,$6.00,"1,775","$10,650.00",Net 30,Delivered
+100312,05/06/2026,Timberline Wholesale Inc,Boise,ID,Rachel Ortiz,Southeast,Small Box,$6.00,"1,325","$7,950.00",Net 60,Delivered
+100313,03/31/2026,Crescent Manufacturing Group,New Orleans,LA,Angela Brooks,Midwest,Medium Box,$8.00,"1,525","$12,200.00",Net 60,Delivered
+100314,02/26/2026,Sunbelt Distribution LLC,Tampa,FL,David Kim,Southeast,Medium Box,$8.00,"1,325","$10,600.00",Net 30,Invoiced
+100315,10/22/2025,Granite State Packaging,Manchester,NH,Karen Whitfield,Midwest,Small Box,$6.00,"1,950","$11,700.00",Net 45,Invoiced
+100316,11/29/2025,Coastal Retail Holdings,Charleston,SC,David Kim,Southeast,Medium Box,$8.00,"1,575","$12,600.00",Net 60,Delivered
+100317,06/01/2026,Highland Retail Partners,Salt Lake City,UT,David Kim,Midwest,Medium Box,$8.00,"2,000","$16,000.00",Net 45,Invoiced
+100318,02/21/2026,Midwest Supply Chain Inc,Chicago,IL,David Kim,Southeast,Large Box,$12.00,"1,725","$20,700.00",Net 45,Shipped
+100319,04/04/2026,Frontier Consumer Supply,Albuquerque,NM,Karen Whitfield,West,Large Box,$12.00,"1,850","$22,200.00",Net 60,Processing
+100320,06/08/2026,Continental Freight Solutions,Dallas,TX,Karen Whitfield,Southwest,Large Box,$12.00,"1,850","$22,200.00",Net 45,Shipped
+100321,09/16/2025,Meridian Logistics Group,Columbus,OH,Nicole Fenwick,Southwest,Medium Box,$8.00,"1,050","$8,400.00",Net 45,Invoiced
+100322,05/12/2026,Highland Retail Partners,Salt Lake City,UT,James Peterson,Northeast,Large Box,$12.00,"1,550","$18,600.00",Net 45,Shipped
+100323,03/29/2026,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Midwest,Large Box,$12.00,"1,525","$18,300.00",Net 60,Invoiced
+100324,09/30/2025,Coastal Retail Holdings,Charleston,SC,Marcus Doyle,West,Large Box,$12.00,"1,250","$15,000.00",Net 30,Delivered
+100325,12/29/2025,Great Lakes Packaging Co,Cleveland,OH,Rachel Ortiz,Northeast,Medium Box,$8.00,"1,975","$15,800.00",Net 30,Invoiced
+100326,06/22/2026,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Northeast,Large Box,$12.00,"1,425","$17,100.00",Net 30,Invoiced
+100327,07/29/2025,Crescent Manufacturing Group,New Orleans,LA,Priya Natarajan,Northeast,Medium Box,$8.00,"1,875","$15,000.00",Net 30,Invoiced
+100328,04/16/2026,Frontier Consumer Supply,Albuquerque,NM,Marcus Doyle,West,Large Box,$12.00,"1,225","$14,700.00",Net 30,Pending
+100329,04/17/2026,Prairie State Logistics,Kansas City,MO,Karen Whitfield,Northeast,Small Box,$6.00,"1,950","$11,700.00",Net 30,Delivered
+100330,06/02/2026,Meridian Logistics Group,Columbus,OH,David Kim,Northeast,Large Box,$12.00,"1,600","$19,200.00",Net 30,Invoiced
+100331,01/20/2026,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Southeast,Small Box,$6.00,"1,250","$7,500.00",Net 45,Invoiced
+100332,06/12/2026,Riverside Packaging Corp,Cincinnati,OH,David Kim,Southwest,Small Box,$6.00,"1,150","$6,900.00",Net 60,Invoiced
+100333,08/10/2025,Prairie State Logistics,Kansas City,MO,David Kim,Northeast,Large Box,$12.00,"1,450","$17,400.00",Net 30,Shipped
+100334,05/06/2026,Sunbelt Distribution LLC,Tampa,FL,Brian Castillo,Southwest,Medium Box,$8.00,"1,025","$8,200.00",Net 45,Invoiced
+100335,02/16/2026,Prairie State Logistics,Kansas City,MO,David Kim,West,Medium Box,$8.00,"1,450","$11,600.00",Net 30,Invoiced
+100336,01/11/2026,Union Pacific Warehousing,Omaha,NE,Brian Castillo,Midwest,Large Box,$12.00,"1,725","$20,700.00",Net 30,Delivered
+100337,01/11/2026,Timberline Wholesale Inc,Boise,ID,Priya Natarajan,Southwest,Medium Box,$8.00,"1,375","$11,000.00",Net 30,Shipped
+100338,12/05/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Angela Brooks,Northeast,Large Box,$12.00,"1,100","$13,200.00",Net 30,Delivered
+100339,04/11/2026,Atlantic Coast Distributors,Norfolk,VA,Marcus Doyle,Northeast,Large Box,$12.00,"1,350","$16,200.00",Net 45,Invoiced
+100340,12/14/2025,Cornerstone Supply Co,Richmond,VA,Karen Whitfield,Midwest,Medium Box,$8.00,"1,400","$11,200.00",Net 60,Invoiced
+100341,04/13/2026,Highland Retail Partners,Salt Lake City,UT,Tom Sullivan,West,Small Box,$6.00,"1,175","$7,050.00",Net 45,Shipped
+100342,11/15/2025,Horizon Consumer Goods,Phoenix,AZ,James Peterson,Southeast,Large Box,$12.00,"1,175","$14,100.00",Net 30,Delivered
+100343,03/05/2026,Metro Fulfillment Services,Newark,NJ,David Kim,Midwest,Large Box,$12.00,"1,750","$21,000.00",Net 45,Invoiced
+100344,10/09/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Priya Natarajan,Midwest,Large Box,$12.00,"1,975","$23,700.00",Net 30,Invoiced
+100345,01/11/2026,Metro Fulfillment Services,Newark,NJ,David Kim,Southwest,Medium Box,$8.00,"1,450","$11,600.00",Net 60,Pending
+100346,05/01/2026,Coastal Retail Holdings,Charleston,SC,David Kim,West,Small Box,$6.00,"1,200","$7,200.00",Net 30,Shipped
+100347,01/20/2026,Frontier Consumer Supply,Albuquerque,NM,Angela Brooks,Southwest,Small Box,$6.00,"1,800","$10,800.00",Net 30,Delivered
+100348,01/18/2026,Ironwood Distribution Inc,Indianapolis,IN,Brian Castillo,Southeast,Small Box,$6.00,"1,550","$9,300.00",Net 30,Invoiced
+100349,07/14/2025,Highland Retail Partners,Salt Lake City,UT,James Peterson,Southeast,Medium Box,$8.00,"1,825","$14,600.00",Net 30,Invoiced
+100350,01/26/2026,Crescent Manufacturing Group,New Orleans,LA,Priya Natarajan,Midwest,Large Box,$12.00,"1,250","$15,000.00",Net 45,Invoiced
+100351,01/10/2026,Pinnacle Distribution Corp,Atlanta,GA,Brian Castillo,Southwest,Small Box,$6.00,"1,400","$8,400.00",Net 45,Processing
+100352,06/20/2026,Redwood Retail Group,Sacramento,CA,Karen Whitfield,Midwest,Small Box,$6.00,"1,925","$11,550.00",Net 60,Invoiced
+100353,08/13/2025,Coastal Retail Holdings,Charleston,SC,Tom Sullivan,Midwest,Large Box,$12.00,"1,650","$19,800.00",Net 45,Invoiced
+100354,05/27/2026,Crescent Manufacturing Group,New Orleans,LA,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,100","$8,800.00",Net 30,Delivered
+100355,03/19/2026,Granite State Packaging,Manchester,NH,Nicole Fenwick,West,Small Box,$6.00,"1,600","$9,600.00",Net 30,Delivered
+100356,02/23/2026,Sunbelt Distribution LLC,Tampa,FL,Brian Castillo,West,Large Box,$12.00,"1,350","$16,200.00",Due on Receipt,Delivered
+100357,11/29/2025,Redwood Retail Group,Sacramento,CA,Marcus Doyle,Northeast,Small Box,$6.00,"1,150","$6,900.00",Net 30,Delivered
+100358,10/14/2025,Atlantic Coast Distributors,Norfolk,VA,David Kim,Southwest,Large Box,$12.00,"1,450","$17,400.00",Net 45,Delivered
+100359,08/04/2025,Horizon Consumer Goods,Phoenix,AZ,Marcus Doyle,Northeast,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Invoiced
+100360,11/02/2025,Atlantic Coast Distributors,Norfolk,VA,Nicole Fenwick,Southeast,Medium Box,$8.00,"1,575","$12,600.00",Net 30,Delivered
+100361,01/24/2026,Vanguard Retail Supply,Minneapolis,MN,Priya Natarajan,Southwest,Medium Box,$8.00,"1,025","$8,200.00",Net 45,Pending
+100362,02/16/2026,Heartland Shipping Co,Des Moines,IA,Rachel Ortiz,Northeast,Small Box,$6.00,"1,225","$7,350.00",Net 30,Invoiced
+100363,08/02/2025,Heartland Shipping Co,Des Moines,IA,Nicole Fenwick,Southeast,Medium Box,$8.00,"1,325","$10,600.00",Net 30,Shipped
+100364,06/09/2026,Cornerstone Supply Co,Richmond,VA,Nicole Fenwick,Midwest,Small Box,$6.00,"1,400","$8,400.00",Net 45,Invoiced
+100365,12/26/2025,Ironwood Distribution Inc,Indianapolis,IN,James Peterson,West,Large Box,$12.00,"1,825","$21,900.00",Net 45,Invoiced
+100366,05/11/2026,Heartland Shipping Co,Des Moines,IA,Priya Natarajan,Midwest,Large Box,$12.00,"1,250","$15,000.00",Net 30,Shipped
+100367,06/21/2026,Coastal Retail Holdings,Charleston,SC,Rachel Ortiz,Southwest,Small Box,$6.00,"1,150","$6,900.00",Net 45,Delivered
+100368,03/07/2026,Crescent Manufacturing Group,New Orleans,LA,Priya Natarajan,West,Large Box,$12.00,"1,500","$18,000.00",Net 30,Shipped
+100369,02/16/2026,Heartland Shipping Co,Des Moines,IA,David Kim,Northeast,Medium Box,$8.00,"1,150","$9,200.00",Net 30,Delivered
+100370,04/14/2026,Atlantic Coast Distributors,Norfolk,VA,James Peterson,Southwest,Small Box,$6.00,"1,500","$9,000.00",Net 30,Invoiced
+100371,03/08/2026,Midwest Supply Chain Inc,Chicago,IL,Brian Castillo,Northeast,Large Box,$12.00,"1,300","$15,600.00",Net 30,Delivered
+100372,11/25/2025,Midwest Supply Chain Inc,Chicago,IL,James Peterson,West,Small Box,$6.00,"1,800","$10,800.00",Net 60,Delivered
+100373,08/27/2025,Heartland Shipping Co,Des Moines,IA,Angela Brooks,West,Medium Box,$8.00,"1,550","$12,400.00",Net 60,Shipped
+100374,02/11/2026,Silverline Consumer Brands,Denver,CO,Rachel Ortiz,Northeast,Small Box,$6.00,"1,850","$11,100.00",Net 45,Delivered
+100375,07/17/2025,Lakeshore Packaging Solutions,Milwaukee,WI,David Kim,Northeast,Medium Box,$8.00,"1,875","$15,000.00",Due on Receipt,Invoiced
+100376,10/30/2025,Summit Manufacturing LLC,Pittsburgh,PA,Brian Castillo,Midwest,Small Box,$6.00,"1,625","$9,750.00",Net 45,Shipped
+100377,09/10/2025,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Northeast,Small Box,$6.00,"1,350","$8,100.00",Net 45,Invoiced
+100378,09/25/2025,Cascade Industrial Supply,Portland,OR,Angela Brooks,Midwest,Small Box,$6.00,"1,275","$7,650.00",Due on Receipt,Delivered
+100379,06/13/2026,Metro Fulfillment Services,Newark,NJ,Priya Natarajan,Southwest,Large Box,$12.00,"1,275","$15,300.00",Net 60,Shipped
+100380,09/06/2025,Summit Manufacturing LLC,Pittsburgh,PA,David Kim,Southeast,Small Box,$6.00,"1,400","$8,400.00",Net 30,Invoiced
+100381,11/15/2025,Vanguard Retail Supply,Minneapolis,MN,Rachel Ortiz,Southwest,Large Box,$12.00,"1,650","$19,800.00",Net 60,Invoiced
+100382,01/23/2026,Atlantic Coast Distributors,Norfolk,VA,Angela Brooks,Midwest,Medium Box,$8.00,"1,975","$15,800.00",Net 30,Invoiced
+100383,08/17/2025,Timberline Wholesale Inc,Boise,ID,James Peterson,Midwest,Large Box,$12.00,"1,825","$21,900.00",Net 45,Delivered
+100384,02/05/2026,Metro Fulfillment Services,Newark,NJ,James Peterson,Midwest,Medium Box,$8.00,"1,850","$14,800.00",Net 30,Delivered
+100385,09/05/2025,Silverline Consumer Brands,Denver,CO,James Peterson,Midwest,Small Box,$6.00,"1,775","$10,650.00",Net 30,Shipped
+100386,02/21/2026,Meridian Logistics Group,Columbus,OH,Priya Natarajan,Southwest,Medium Box,$8.00,"1,000","$8,000.00",Due on Receipt,Delivered
+100387,06/18/2026,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Southeast,Medium Box,$8.00,"1,100","$8,800.00",Net 45,Delivered
+100388,01/07/2026,Crescent Manufacturing Group,New Orleans,LA,Priya Natarajan,Northeast,Medium Box,$8.00,"1,650","$13,200.00",Net 30,Invoiced
+100389,10/28/2025,Lakeshore Packaging Solutions,Milwaukee,WI,Marcus Doyle,Northeast,Large Box,$12.00,"1,225","$14,700.00",Net 30,Shipped
+100390,10/24/2025,Atlantic Coast Distributors,Norfolk,VA,James Peterson,Northeast,Large Box,$12.00,"1,700","$20,400.00",Net 30,Shipped
+100391,02/02/2026,Timberline Wholesale Inc,Boise,ID,James Peterson,Northeast,Large Box,$12.00,"1,400","$16,800.00",Net 30,Invoiced
+100392,08/22/2025,National Fulfillment Partners,Memphis,TN,Angela Brooks,Southeast,Medium Box,$8.00,"1,800","$14,400.00",Net 60,Pending
+100393,05/25/2026,Frontier Consumer Supply,Albuquerque,NM,Priya Natarajan,Northeast,Small Box,$6.00,"1,575","$9,450.00",Net 30,Invoiced
+100394,02/11/2026,Ironwood Distribution Inc,Indianapolis,IN,Tom Sullivan,Southeast,Medium Box,$8.00,"1,625","$13,000.00",Net 45,Pending
+100395,08/14/2025,Riverside Packaging Corp,Cincinnati,OH,Priya Natarajan,Northeast,Small Box,$6.00,"1,750","$10,500.00",Net 30,Processing
+100396,12/09/2025,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Midwest,Small Box,$6.00,"1,075","$6,450.00",Net 30,Invoiced
+100397,05/08/2026,Horizon Consumer Goods,Phoenix,AZ,Karen Whitfield,Midwest,Large Box,$12.00,"1,525","$18,300.00",Net 45,Shipped
+100398,01/17/2026,Horizon Consumer Goods,Phoenix,AZ,Karen Whitfield,Southeast,Medium Box,$8.00,"1,400","$11,200.00",Net 30,Delivered
+100399,05/01/2026,Pinnacle Distribution Corp,Atlanta,GA,Karen Whitfield,Midwest,Medium Box,$8.00,"1,125","$9,000.00",Net 30,Invoiced
+100400,02/01/2026,Ironwood Distribution Inc,Indianapolis,IN,Priya Natarajan,Southwest,Large Box,$12.00,"1,025","$12,300.00",Net 45,Shipped
+100401,10/19/2025,Meridian Logistics Group,Columbus,OH,Karen Whitfield,Southwest,Small Box,$6.00,"1,300","$7,800.00",Net 45,Delivered
+100402,01/29/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Rachel Ortiz,Northeast,Small Box,$6.00,"1,550","$9,300.00",Net 45,Shipped
+100403,08/12/2025,National Fulfillment Partners,Memphis,TN,Nicole Fenwick,Southeast,Large Box,$12.00,"1,550","$18,600.00",Net 30,Invoiced
+100404,05/29/2026,Crescent Manufacturing Group,New Orleans,LA,Marcus Doyle,Midwest,Small Box,$6.00,"1,450","$8,700.00",Net 45,Invoiced
+100405,07/30/2025,Summit Manufacturing LLC,Pittsburgh,PA,Rachel Ortiz,Northeast,Medium Box,$8.00,"1,625","$13,000.00",Net 45,Delivered
+100406,06/02/2026,Granite State Packaging,Manchester,NH,Marcus Doyle,Northeast,Small Box,$6.00,"1,150","$6,900.00",Net 45,Shipped
+100407,12/25/2025,Atlantic Coast Distributors,Norfolk,VA,Angela Brooks,Southeast,Medium Box,$8.00,"1,125","$9,000.00",Net 45,Pending
+100408,08/30/2025,Sunbelt Distribution LLC,Tampa,FL,Karen Whitfield,Midwest,Medium Box,$8.00,"1,275","$10,200.00",Net 45,Delivered
+100409,04/22/2026,Vanguard Retail Supply,Minneapolis,MN,James Peterson,Southwest,Small Box,$6.00,"1,375","$8,250.00",Net 30,Pending
+100410,09/24/2025,Ironwood Distribution Inc,Indianapolis,IN,Angela Brooks,Northeast,Small Box,$6.00,"1,700","$10,200.00",Net 45,Delivered
+100411,03/18/2026,Meridian Logistics Group,Columbus,OH,Karen Whitfield,Southeast,Large Box,$12.00,"1,475","$17,700.00",Net 30,Processing
+100412,09/30/2025,Highland Retail Partners,Salt Lake City,UT,Karen Whitfield,West,Small Box,$6.00,"1,750","$10,500.00",Net 45,Delivered
+100413,11/05/2025,Redwood Retail Group,Sacramento,CA,David Kim,Midwest,Large Box,$12.00,"1,575","$18,900.00",Net 30,Delivered
+100414,07/27/2025,Midwest Supply Chain Inc,Chicago,IL,Nicole Fenwick,Northeast,Medium Box,$8.00,"1,075","$8,600.00",Net 60,Pending
+100415,12/07/2025,Cascade Industrial Supply,Portland,OR,Nicole Fenwick,Southwest,Large Box,$12.00,"1,375","$16,500.00",Net 30,Invoiced
+100416,12/03/2025,Granite State Packaging,Manchester,NH,Tom Sullivan,Southwest,Medium Box,$8.00,"1,600","$12,800.00",Due on Receipt,Processing
+100417,10/09/2025,Granite State Packaging,Manchester,NH,Nicole Fenwick,Southeast,Large Box,$12.00,"1,000","$12,000.00",Due on Receipt,Shipped
+100418,04/04/2026,Ironwood Distribution Inc,Indianapolis,IN,Karen Whitfield,Midwest,Large Box,$12.00,"1,775","$21,300.00",Net 45,Invoiced
+100419,12/05/2025,Union Pacific Warehousing,Omaha,NE,Nicole Fenwick,Southeast,Medium Box,$8.00,"1,500","$12,000.00",Due on Receipt,Processing
+100420,09/11/2025,Timberline Wholesale Inc,Boise,ID,Marcus Doyle,Northeast,Large Box,$12.00,"1,925","$23,100.00",Net 60,Delivered
+100421,01/07/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Marcus Doyle,West,Large Box,$12.00,"1,525","$18,300.00",Net 30,Invoiced
+100422,08/08/2025,Heartland Shipping Co,Des Moines,IA,Karen Whitfield,Southwest,Small Box,$6.00,"1,975","$11,850.00",Net 30,Delivered
+100423,12/09/2025,Highland Retail Partners,Salt Lake City,UT,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,475","$11,800.00",Net 30,Shipped
+100424,10/12/2025,Coastal Retail Holdings,Charleston,SC,Brian Castillo,Northeast,Large Box,$12.00,"1,100","$13,200.00",Net 30,Delivered
+100425,01/25/2026,Coastal Retail Holdings,Charleston,SC,David Kim,Southeast,Medium Box,$8.00,"1,325","$10,600.00",Net 30,Pending
+100426,08/16/2025,Midwest Supply Chain Inc,Chicago,IL,Angela Brooks,West,Large Box,$12.00,"1,225","$14,700.00",Net 60,Delivered
+100427,08/16/2025,Timberline Wholesale Inc,Boise,ID,David Kim,Southwest,Small Box,$6.00,"1,050","$6,300.00",Net 45,Delivered
+100428,09/28/2025,Meridian Logistics Group,Columbus,OH,Rachel Ortiz,Southwest,Small Box,$6.00,"1,775","$10,650.00",Net 45,Shipped
+100429,08/22/2025,Metro Fulfillment Services,Newark,NJ,Priya Natarajan,Northeast,Large Box,$12.00,"1,075","$12,900.00",Net 60,Processing
+100430,09/05/2025,Midwest Supply Chain Inc,Chicago,IL,Rachel Ortiz,Midwest,Small Box,$6.00,"1,650","$9,900.00",Due on Receipt,Shipped
+100431,04/27/2026,Great Lakes Packaging Co,Cleveland,OH,Marcus Doyle,Northeast,Large Box,$12.00,"1,200","$14,400.00",Due on Receipt,Delivered
+100432,09/04/2025,Union Pacific Warehousing,Omaha,NE,David Kim,Northeast,Large Box,$12.00,"1,975","$23,700.00",Net 30,Shipped
+100433,04/20/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Rachel Ortiz,Southwest,Large Box,$12.00,"1,400","$16,800.00",Net 45,Shipped
+100434,10/18/2025,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Midwest,Medium Box,$8.00,"1,900","$15,200.00",Net 30,Invoiced
+100435,05/12/2026,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,Southwest,Medium Box,$8.00,"1,900","$15,200.00",Net 45,Shipped
+100436,11/21/2025,Bluegrass Wholesale Co,Louisville,KY,Rachel Ortiz,Southeast,Small Box,$6.00,"1,900","$11,400.00",Net 60,Delivered
+100437,04/05/2026,Metro Fulfillment Services,Newark,NJ,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,550","$12,400.00",Net 60,Delivered
+100438,04/16/2026,Atlantic Coast Distributors,Norfolk,VA,Rachel Ortiz,Midwest,Large Box,$12.00,"1,025","$12,300.00",Net 30,Delivered
+100439,11/21/2025,Pinnacle Distribution Corp,Atlanta,GA,James Peterson,West,Medium Box,$8.00,"1,775","$14,200.00",Net 45,Delivered
+100440,09/20/2025,Union Pacific Warehousing,Omaha,NE,Tom Sullivan,Midwest,Small Box,$6.00,"1,825","$10,950.00",Net 60,Invoiced
+100441,10/21/2025,Heartland Shipping Co,Des Moines,IA,Rachel Ortiz,Midwest,Large Box,$12.00,"1,175","$14,100.00",Net 30,Delivered
+100442,06/23/2026,Ironwood Distribution Inc,Indianapolis,IN,Brian Castillo,Northeast,Small Box,$6.00,"1,725","$10,350.00",Net 30,Invoiced
+100443,09/11/2025,Silverline Consumer Brands,Denver,CO,Tom Sullivan,Southwest,Small Box,$6.00,"1,325","$7,950.00",Net 30,Shipped
+100444,07/29/2025,Summit Manufacturing LLC,Pittsburgh,PA,Tom Sullivan,Northeast,Small Box,$6.00,"1,500","$9,000.00",Net 30,Processing
+100445,10/12/2025,Metro Fulfillment Services,Newark,NJ,David Kim,Southeast,Medium Box,$8.00,"1,050","$8,400.00",Net 30,Invoiced
+100446,09/11/2025,Sunbelt Distribution LLC,Tampa,FL,Nicole Fenwick,Midwest,Large Box,$12.00,"1,375","$16,500.00",Net 45,Invoiced
+100447,04/27/2026,Union Pacific Warehousing,Omaha,NE,Angela Brooks,Midwest,Large Box,$12.00,"2,000","$24,000.00",Net 30,Processing
+100448,05/24/2026,Frontier Consumer Supply,Albuquerque,NM,David Kim,Southeast,Small Box,$6.00,"2,000","$12,000.00",Net 45,Pending
+100449,05/11/2026,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,West,Large Box,$12.00,"1,375","$16,500.00",Net 30,Invoiced
+100450,09/04/2025,Midwest Supply Chain Inc,Chicago,IL,Karen Whitfield,West,Medium Box,$8.00,"1,875","$15,000.00",Due on Receipt,Processing
+100451,07/17/2025,Midwest Supply Chain Inc,Chicago,IL,David Kim,West,Large Box,$12.00,"1,650","$19,800.00",Net 45,Processing
+100452,09/11/2025,Cascade Industrial Supply,Portland,OR,Marcus Doyle,Southeast,Medium Box,$8.00,"1,325","$10,600.00",Net 30,Pending
+100453,08/15/2025,Metro Fulfillment Services,Newark,NJ,David Kim,Southwest,Large Box,$12.00,"1,275","$15,300.00",Net 30,Invoiced
+100454,12/27/2025,Summit Manufacturing LLC,Pittsburgh,PA,Marcus Doyle,Northeast,Large Box,$12.00,"1,400","$16,800.00",Net 30,Delivered
+100455,09/24/2025,Blue Ridge Logistics,Charlotte,NC,James Peterson,Southwest,Medium Box,$8.00,"1,550","$12,400.00",Net 30,Invoiced
+100456,04/22/2026,Crescent Manufacturing Group,New Orleans,LA,Tom Sullivan,Southeast,Medium Box,$8.00,"1,075","$8,600.00",Net 60,Shipped
+100457,07/11/2025,National Fulfillment Partners,Memphis,TN,Marcus Doyle,Northeast,Medium Box,$8.00,"1,175","$9,400.00",Net 60,Shipped
+100458,08/08/2025,Silverline Consumer Brands,Denver,CO,Marcus Doyle,Midwest,Small Box,$6.00,"1,625","$9,750.00",Net 60,Invoiced
+100459,02/06/2026,Highland Retail Partners,Salt Lake City,UT,Priya Natarajan,West,Medium Box,$8.00,"1,150","$9,200.00",Net 30,Delivered
+100460,10/06/2025,Redwood Retail Group,Sacramento,CA,Nicole Fenwick,West,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Delivered
+100461,07/26/2025,Bluegrass Wholesale Co,Louisville,KY,Nicole Fenwick,Southwest,Large Box,$12.00,"1,050","$12,600.00",Net 30,Delivered
+100462,11/28/2025,Metro Fulfillment Services,Newark,NJ,Brian Castillo,Southwest,Large Box,$12.00,"1,100","$13,200.00",Net 30,Shipped
+100463,11/27/2025,Frontier Consumer Supply,Albuquerque,NM,James Peterson,Northeast,Medium Box,$8.00,"1,800","$14,400.00",Net 30,Delivered
+100464,06/04/2026,Great Lakes Packaging Co,Cleveland,OH,Nicole Fenwick,Southwest,Large Box,$12.00,"1,375","$16,500.00",Net 60,Delivered
+100465,02/14/2026,Continental Freight Solutions,Dallas,TX,James Peterson,Southwest,Medium Box,$8.00,"1,225","$9,800.00",Net 60,Invoiced
+100466,09/16/2025,Granite State Packaging,Manchester,NH,Marcus Doyle,Northeast,Small Box,$6.00,"1,350","$8,100.00",Net 60,Delivered
+100467,04/28/2026,Summit Manufacturing LLC,Pittsburgh,PA,Karen Whitfield,Southwest,Small Box,$6.00,"1,425","$8,550.00",Due on Receipt,Invoiced
+100468,03/01/2026,Heartland Shipping Co,Des Moines,IA,Tom Sullivan,Southwest,Medium Box,$8.00,"1,075","$8,600.00",Net 30,Pending
+100469,07/18/2025,Prairie State Logistics,Kansas City,MO,Nicole Fenwick,West,Small Box,$6.00,"1,625","$9,750.00",Net 30,Processing
+100470,02/15/2026,Midwest Supply Chain Inc,Chicago,IL,Priya Natarajan,Southeast,Large Box,$12.00,"1,125","$13,500.00",Net 30,Shipped
+100471,06/15/2026,Lakeshore Packaging Solutions,Milwaukee,WI,Priya Natarajan,West,Medium Box,$8.00,"1,325","$10,600.00",Due on Receipt,Processing
+100472,08/04/2025,Union Pacific Warehousing,Omaha,NE,Nicole Fenwick,Southwest,Small Box,$6.00,"1,325","$7,950.00",Net 60,Delivered
+100473,07/07/2025,Metro Fulfillment Services,Newark,NJ,Brian Castillo,West,Small Box,$6.00,"1,800","$10,800.00",Net 30,Delivered
+100474,09/14/2025,Silverline Consumer Brands,Denver,CO,Brian Castillo,Northeast,Large Box,$12.00,"1,575","$18,900.00",Net 60,Invoiced
+100475,04/01/2026,Blue Ridge Logistics,Charlotte,NC,Rachel Ortiz,Midwest,Medium Box,$8.00,"1,675","$13,400.00",Net 30,Invoiced
+100476,07/20/2025,Midwest Supply Chain Inc,Chicago,IL,Rachel Ortiz,Southeast,Small Box,$6.00,"1,625","$9,750.00",Net 45,Delivered
+100477,01/19/2026,Riverside Packaging Corp,Cincinnati,OH,David Kim,Southeast,Large Box,$12.00,"1,775","$21,300.00",Net 30,Delivered
+100478,01/07/2026,Meridian Logistics Group,Columbus,OH,Angela Brooks,Midwest,Medium Box,$8.00,"1,875","$15,000.00",Net 30,Invoiced
+100479,08/20/2025,Frontier Consumer Supply,Albuquerque,NM,Tom Sullivan,Southeast,Medium Box,$8.00,"2,000","$16,000.00",Net 45,Invoiced
+100480,12/12/2025,Great Lakes Packaging Co,Cleveland,OH,Rachel Ortiz,West,Small Box,$6.00,"1,100","$6,600.00",Net 30,Delivered
+100481,01/25/2026,Granite State Packaging,Manchester,NH,Nicole Fenwick,Midwest,Large Box,$12.00,"1,525","$18,300.00",Net 60,Shipped
+100482,06/29/2026,Atlantic Coast Distributors,Norfolk,VA,Priya Natarajan,West,Small Box,$6.00,"1,025","$6,150.00",Net 30,Pending
+100483,10/11/2025,Metro Fulfillment Services,Newark,NJ,Tom Sullivan,Northeast,Medium Box,$8.00,"1,050","$8,400.00",Due on Receipt,Invoiced
+100484,11/18/2025,Ironwood Distribution Inc,Indianapolis,IN,James Peterson,West,Medium Box,$8.00,"1,650","$13,200.00",Due on Receipt,Invoiced
+100485,11/01/2025,Ironwood Distribution Inc,Indianapolis,IN,Brian Castillo,Southwest,Large Box,$12.00,"1,975","$23,700.00",Net 60,Invoiced
+100486,12/27/2025,Cascade Industrial Supply,Portland,OR,Angela Brooks,Northeast,Medium Box,$8.00,"1,025","$8,200.00",Net 30,Shipped
+100487,04/19/2026,Sunbelt Distribution LLC,Tampa,FL,Tom Sullivan,Southeast,Small Box,$6.00,"1,225","$7,350.00",Net 45,Delivered
+100488,01/26/2026,Atlantic Coast Distributors,Norfolk,VA,Karen Whitfield,Southwest,Large Box,$12.00,"1,650","$19,800.00",Net 30,Invoiced
+100489,10/23/2025,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,Midwest,Medium Box,$8.00,"1,925","$15,400.00",Net 30,Delivered
+100490,11/07/2025,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,West,Small Box,$6.00,"1,400","$8,400.00",Net 45,Shipped
+100491,06/05/2026,Frontier Consumer Supply,Albuquerque,NM,David Kim,West,Small Box,$6.00,"1,600","$9,600.00",Net 45,Delivered
+100492,08/25/2025,Prairie State Logistics,Kansas City,MO,David Kim,Midwest,Small Box,$6.00,"1,325","$7,950.00",Net 60,Delivered
+100493,06/30/2026,Highland Retail Partners,Salt Lake City,UT,Angela Brooks,Southeast,Large Box,$12.00,"1,525","$18,300.00",Net 60,Pending
+100494,05/04/2026,Redwood Retail Group,Sacramento,CA,David Kim,Southeast,Small Box,$6.00,"1,025","$6,150.00",Net 45,Processing
+100495,11/10/2025,Highland Retail Partners,Salt Lake City,UT,Rachel Ortiz,Southwest,Small Box,$6.00,"1,025","$6,150.00",Net 45,Processing
+100496,10/06/2025,Cascade Industrial Supply,Portland,OR,Tom Sullivan,West,Small Box,$6.00,"1,800","$10,800.00",Net 30,Processing
+100497,12/31/2025,Atlantic Coast Distributors,Norfolk,VA,Priya Natarajan,West,Large Box,$12.00,"1,300","$15,600.00",Net 30,Shipped
+100498,11/10/2025,Timberline Wholesale Inc,Boise,ID,Nicole Fenwick,Southeast,Small Box,$6.00,"1,925","$11,550.00",Net 30,Shipped
+100499,12/29/2025,Summit Manufacturing LLC,Pittsburgh,PA,Angela Brooks,Southwest,Medium Box,$8.00,"1,375","$11,000.00",Net 30,Delivered
+100500,08/30/2025,Prairie State Logistics,Kansas City,MO,Brian Castillo,West,Small Box,$6.00,"1,075","$6,450.00",Net 30,Shipped
+,,,,,,,,Total:,"749,150","$6,461,900.00",,

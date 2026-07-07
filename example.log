@@ -1,0 +1,7 @@
+INFO User Bob logged in
+INFO User Alice logged in
+ERROR Database connection failed
+INFO User Carol logged out
+WARNING Disk space low
+ERROR Payment failed
+INFO Backup completed

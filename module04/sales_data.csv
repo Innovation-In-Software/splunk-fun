@@ -1,0 +1,121 @@
+_time,order_id,customer_id,customer_name,email,region,city_state,product_id,product_name,unit_price,quantity,total_amount,payment_method,order_status
+2026-05-01T18:55:34,ORD-5115,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P206,Webcam 1080p,59.99,3,179.97,gift_card,refunded
+2026-05-02T09:13:14,ORD-5003,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P206,Webcam 1080p,59.99,1,59.99,credit_card,pending
+2026-05-02T09:18:14,ORD-5092,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P207,External SSD 1TB,99.99,2,199.98,gift_card,completed
+2026-05-02T14:37:36,ORD-5076,C1009,Isla Murphy,isla.murphy@example.com,Northeast,"Boston, MA",P209,Ergonomic Chair,259,3,777,credit_card,completed
+2026-05-02T15:54:20,ORD-5089,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P206,Webcam 1080p,59.99,2,119.98,debit_card,refunded
+2026-05-02T20:43:52,ORD-5110,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P209,Ergonomic Chair,259,3,777,paypal,pending
+2026-05-02T21:56:48,ORD-5072,C1009,Isla Murphy,isla.murphy@example.com,Northeast,"Boston, MA",P209,Ergonomic Chair,259,3,777,gift_card,refunded
+2026-05-03T12:23:57,ORD-5047,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P206,Webcam 1080p,59.99,1,59.99,credit_card,completed
+2026-05-03T20:20:25,ORD-5012,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P200,Wireless Mouse,24.99,1,24.99,paypal,completed
+2026-05-04T10:24:00,ORD-5032,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P203,27in Monitor,219.99,2,439.98,gift_card,completed
+2026-05-04T10:50:19,ORD-5107,C1009,Isla Murphy,isla.murphy@example.com,Northeast,"Boston, MA",P202,USB-C Hub,39.99,1,39.99,paypal,refunded
+2026-05-04T12:55:30,ORD-5099,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P205,Noise Cancelling Headphones,149.99,1,149.99,credit_card,completed
+2026-05-04T16:15:58,ORD-5065,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P208,Desk Lamp,22.75,2,45.5,credit_card,refunded
+2026-05-05T15:26:56,ORD-5063,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P207,External SSD 1TB,99.99,3,299.97,debit_card,refunded
+2026-05-05T16:15:17,ORD-5026,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P200,Wireless Mouse,24.99,2,49.98,gift_card,completed
+2026-05-06T12:32:42,ORD-5061,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P202,USB-C Hub,39.99,3,119.97,paypal,completed
+2026-05-06T20:54:15,ORD-5031,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P208,Desk Lamp,22.75,1,22.75,debit_card,refunded
+2026-05-07T13:49:35,ORD-5048,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P203,27in Monitor,219.99,3,659.97,gift_card,pending
+2026-05-07T17:27:22,ORD-5054,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P204,Laptop Stand,34.5,1,34.5,paypal,refunded
+2026-05-07T21:40:19,ORD-5019,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P202,USB-C Hub,39.99,3,119.97,debit_card,completed
+2026-05-08T16:48:26,ORD-5101,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P201,Mechanical Keyboard,89.99,1,89.99,debit_card,pending
+2026-05-09T10:42:30,ORD-5022,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P201,Mechanical Keyboard,89.99,3,269.97,debit_card,completed
+2026-05-09T11:26:42,ORD-5058,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P204,Laptop Stand,34.5,3,103.5,gift_card,completed
+2026-05-10T11:48:21,ORD-5005,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P205,Noise Cancelling Headphones,149.99,2,299.98,credit_card,completed
+2026-05-10T16:02:53,ORD-5046,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P201,Mechanical Keyboard,89.99,3,269.97,paypal,pending
+2026-05-11T08:26:28,ORD-5104,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P208,Desk Lamp,22.75,1,22.75,gift_card,completed
+2026-05-11T20:44:06,ORD-5050,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P203,27in Monitor,219.99,2,439.98,gift_card,completed
+2026-05-12T08:16:24,ORD-5077,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P202,USB-C Hub,39.99,2,79.98,paypal,completed
+2026-05-12T11:13:47,ORD-5095,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P208,Desk Lamp,22.75,3,68.25,gift_card,completed
+2026-05-12T14:01:11,ORD-5049,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P203,27in Monitor,219.99,1,219.99,paypal,refunded
+2026-05-13T14:07:34,ORD-5106,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P209,Ergonomic Chair,259,3,777,debit_card,completed
+2026-05-14T16:48:46,ORD-5023,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P209,Ergonomic Chair,259,2,518,debit_card,completed
+2026-05-15T15:14:17,ORD-5074,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P208,Desk Lamp,22.75,3,68.25,gift_card,refunded
+2026-05-15T15:37:17,ORD-5004,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P208,Desk Lamp,22.75,2,45.5,credit_card,completed
+2026-05-15T17:14:00,ORD-5025,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P209,Ergonomic Chair,259,3,777,credit_card,completed
+2026-05-16T08:15:56,ORD-5021,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P205,Noise Cancelling Headphones,149.99,2,299.98,credit_card,completed
+2026-05-16T11:12:34,ORD-5029,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P205,Noise Cancelling Headphones,149.99,1,149.99,gift_card,completed
+2026-05-16T14:07:56,ORD-5036,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P201,Mechanical Keyboard,89.99,3,269.97,debit_card,pending
+2026-05-16T19:26:31,ORD-5091,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P203,27in Monitor,219.99,1,219.99,debit_card,refunded
+2026-05-16T21:59:04,ORD-5030,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P204,Laptop Stand,34.5,2,69,gift_card,pending
+2026-05-17T09:56:06,ORD-5042,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P201,Mechanical Keyboard,89.99,1,89.99,debit_card,completed
+2026-05-17T10:47:28,ORD-5045,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P202,USB-C Hub,39.99,3,119.97,gift_card,pending
+2026-05-17T14:08:42,ORD-5038,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P205,Noise Cancelling Headphones,149.99,1,149.99,paypal,refunded
+2026-05-18T11:14:08,ORD-5002,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P200,Wireless Mouse,24.99,3,74.97,credit_card,pending
+2026-05-18T15:15:48,ORD-5088,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P203,27in Monitor,219.99,1,219.99,gift_card,pending
+2026-05-18T17:44:56,ORD-5090,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P204,Laptop Stand,34.5,2,69,paypal,pending
+2026-05-18T20:49:33,ORD-5068,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P203,27in Monitor,219.99,3,659.97,gift_card,completed
+2026-05-18T20:53:26,ORD-5078,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P205,Noise Cancelling Headphones,149.99,2,299.98,paypal,completed
+2026-05-19T09:53:12,ORD-5096,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P208,Desk Lamp,22.75,3,68.25,paypal,completed
+2026-05-19T11:17:21,ORD-5069,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P201,Mechanical Keyboard,89.99,3,269.97,paypal,pending
+2026-05-19T14:10:29,ORD-5018,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P205,Noise Cancelling Headphones,149.99,1,149.99,credit_card,completed
+2026-05-19T15:56:44,ORD-5117,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P208,Desk Lamp,22.75,1,22.75,gift_card,completed
+2026-05-19T19:55:29,ORD-5105,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P204,Laptop Stand,34.5,3,103.5,credit_card,completed
+2026-05-20T09:37:01,ORD-5082,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P201,Mechanical Keyboard,89.99,1,89.99,paypal,pending
+2026-05-20T11:51:12,ORD-5062,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P203,27in Monitor,219.99,3,659.97,debit_card,completed
+2026-05-20T12:14:07,ORD-5094,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P207,External SSD 1TB,99.99,2,199.98,debit_card,completed
+2026-05-20T16:19:42,ORD-5057,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P201,Mechanical Keyboard,89.99,3,269.97,gift_card,completed
+2026-05-20T17:51:41,ORD-5041,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P208,Desk Lamp,22.75,3,68.25,credit_card,pending
+2026-05-21T11:41:31,ORD-5013,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P209,Ergonomic Chair,259,3,777,gift_card,refunded
+2026-05-21T17:16:01,ORD-5109,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P200,Wireless Mouse,24.99,2,49.98,credit_card,completed
+2026-05-22T11:43:40,ORD-5043,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P203,27in Monitor,219.99,3,659.97,paypal,pending
+2026-05-22T12:55:04,ORD-5052,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P203,27in Monitor,219.99,2,439.98,paypal,completed
+2026-05-22T14:44:31,ORD-5113,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P201,Mechanical Keyboard,89.99,1,89.99,paypal,refunded
+2026-05-23T09:56:15,ORD-5040,C1002,Brian Foster,brian.foster@example.com,South,"Austin, TX",P204,Laptop Stand,34.5,1,34.5,paypal,completed
+2026-05-23T11:41:04,ORD-5079,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P208,Desk Lamp,22.75,1,22.75,credit_card,completed
+2026-05-25T11:58:38,ORD-5121,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P208,Desk Lamp,22.75,1,22.75,debit_card,completed
+2026-05-25T12:59:40,ORD-5011,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P202,USB-C Hub,39.99,2,79.98,debit_card,completed
+2026-05-25T17:12:16,ORD-5055,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P208,Desk Lamp,22.75,1,22.75,credit_card,refunded
+2026-05-25T19:09:45,ORD-5070,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P202,USB-C Hub,39.99,1,39.99,debit_card,completed
+2026-05-25T21:57:53,ORD-5073,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P205,Noise Cancelling Headphones,149.99,2,299.98,gift_card,pending
+2026-05-26T12:32:34,ORD-5108,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P204,Laptop Stand,34.5,3,103.5,gift_card,refunded
+2026-05-27T18:37:36,ORD-5037,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P209,Ergonomic Chair,259,1,259,paypal,completed
+2026-05-28T14:29:55,ORD-5028,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P206,Webcam 1080p,59.99,2,119.98,credit_card,completed
+2026-05-28T17:04:24,ORD-5016,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P202,USB-C Hub,39.99,3,119.97,gift_card,pending
+2026-05-28T19:46:50,ORD-5033,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P207,External SSD 1TB,99.99,2,199.98,gift_card,completed
+2026-05-30T09:20:16,ORD-5114,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P208,Desk Lamp,22.75,1,22.75,paypal,completed
+2026-05-30T09:41:53,ORD-5119,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P203,27in Monitor,219.99,1,219.99,debit_card,refunded
+2026-05-30T13:19:52,ORD-5051,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P203,27in Monitor,219.99,1,219.99,debit_card,completed
+2026-05-30T14:03:13,ORD-5071,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P205,Noise Cancelling Headphones,149.99,3,449.97,gift_card,refunded
+2026-05-30T17:36:06,ORD-5039,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P201,Mechanical Keyboard,89.99,1,89.99,credit_card,pending
+2026-05-30T18:53:23,ORD-5009,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P206,Webcam 1080p,59.99,2,119.98,debit_card,completed
+2026-05-30T19:09:27,ORD-5086,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P205,Noise Cancelling Headphones,149.99,3,449.97,debit_card,pending
+2026-05-31T11:50:30,ORD-5027,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P209,Ergonomic Chair,259,3,777,gift_card,completed
+2026-05-31T16:33:22,ORD-5093,C1003,Carla Jimenez,carla.jimenez@example.com,Midwest,"Denver, CO",P209,Ergonomic Chair,259,2,518,gift_card,pending
+2026-06-01T09:30:22,ORD-5112,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P206,Webcam 1080p,59.99,3,179.97,gift_card,completed
+2026-06-01T09:55:00,ORD-5098,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P202,USB-C Hub,39.99,3,119.97,paypal,refunded
+2026-06-02T15:05:48,ORD-5015,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P203,27in Monitor,219.99,1,219.99,credit_card,completed
+2026-06-02T18:21:00,ORD-5085,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P205,Noise Cancelling Headphones,149.99,1,149.99,gift_card,refunded
+2026-06-03T08:38:20,ORD-5020,C1004,David Okafor,david.okafor@example.com,South,"Charlotte, NC",P202,USB-C Hub,39.99,3,119.97,gift_card,completed
+2026-06-03T10:03:32,ORD-5035,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P207,External SSD 1TB,99.99,3,299.97,credit_card,completed
+2026-06-03T15:07:15,ORD-5024,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P205,Noise Cancelling Headphones,149.99,2,299.98,debit_card,completed
+2026-06-03T16:38:20,ORD-5066,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P207,External SSD 1TB,99.99,3,299.97,gift_card,pending
+2026-06-03T18:28:58,ORD-5111,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P202,USB-C Hub,39.99,2,79.98,paypal,completed
+2026-06-04T13:01:07,ORD-5053,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P206,Webcam 1080p,59.99,3,179.97,paypal,completed
+2026-06-04T20:30:29,ORD-5087,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P204,Laptop Stand,34.5,3,103.5,gift_card,pending
+2026-06-05T12:53:40,ORD-5007,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P206,Webcam 1080p,59.99,1,59.99,paypal,pending
+2026-06-05T15:57:10,ORD-5067,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P208,Desk Lamp,22.75,2,45.5,gift_card,refunded
+2026-06-05T16:16:47,ORD-5014,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P202,USB-C Hub,39.99,1,39.99,gift_card,pending
+2026-06-05T21:00:19,ORD-5059,C1007,Grace Kim,grace.kim@example.com,West,"San Jose, CA",P204,Laptop Stand,34.5,2,69,paypal,completed
+2026-06-05T21:00:43,ORD-5017,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P208,Desk Lamp,22.75,2,45.5,credit_card,pending
+2026-06-07T14:19:36,ORD-5102,C1004,David Okafor,david.okafor@example.com,South,"Charlotte, NC",P207,External SSD 1TB,99.99,2,199.98,credit_card,pending
+2026-06-07T19:34:03,ORD-5034,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P203,27in Monitor,219.99,1,219.99,paypal,completed
+2026-06-08T12:51:02,ORD-5006,C1004,David Okafor,david.okafor@example.com,South,"Charlotte, NC",P205,Noise Cancelling Headphones,149.99,2,299.98,gift_card,pending
+2026-06-08T20:07:50,ORD-5084,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P204,Laptop Stand,34.5,3,103.5,credit_card,completed
+2026-06-09T10:15:08,ORD-5080,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P203,27in Monitor,219.99,1,219.99,gift_card,completed
+2026-06-09T20:31:40,ORD-5116,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P208,Desk Lamp,22.75,2,45.5,gift_card,completed
+2026-06-10T11:16:42,ORD-5103,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P201,Mechanical Keyboard,89.99,1,89.99,credit_card,completed
+2026-06-10T14:53:17,ORD-5044,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P200,Wireless Mouse,24.99,1,24.99,credit_card,completed
+2026-06-10T18:03:09,ORD-5100,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P201,Mechanical Keyboard,89.99,3,269.97,debit_card,pending
+2026-06-11T13:29:28,ORD-5060,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P209,Ergonomic Chair,259,3,777,gift_card,completed
+2026-06-11T19:00:57,ORD-5064,C1005,Elena Petrova,elena.petrova@example.com,West,"Seattle, WA",P203,27in Monitor,219.99,1,219.99,credit_card,refunded
+2026-06-12T11:23:27,ORD-5056,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P208,Desk Lamp,22.75,3,68.25,credit_card,completed
+2026-06-12T11:49:18,ORD-5008,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P201,Mechanical Keyboard,89.99,1,89.99,credit_card,completed
+2026-06-13T18:04:38,ORD-5010,C1004,David Okafor,david.okafor@example.com,South,"Charlotte, NC",P204,Laptop Stand,34.5,3,103.5,debit_card,pending
+2026-06-13T20:25:46,ORD-5075,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P205,Noise Cancelling Headphones,149.99,3,449.97,debit_card,refunded
+2026-06-14T12:49:23,ORD-5081,C1006,Frank Lin,frank.lin@example.com,Midwest,"Chicago, IL",P203,27in Monitor,219.99,2,439.98,debit_card,pending
+2026-06-15T10:19:35,ORD-5118,C1001,Alice Nguyen,alice.nguyen@example.com,West,"Santa Rosa, CA",P209,Ergonomic Chair,259,1,259,credit_card,pending
+2026-06-15T11:04:37,ORD-5083,C1008,Hassan Ali,hassan.ali@example.com,South,"Dallas, TX",P206,Webcam 1080p,59.99,2,119.98,debit_card,completed
+2026-06-15T12:26:53,ORD-5120,C1010,Jorge Ramirez,jorge.ramirez@example.com,South,"Miami, FL",P204,Laptop Stand,34.5,3,103.5,gift_card,refunded
+2026-06-15T16:08:17,ORD-5097,C1004,David Okafor,david.okafor@example.com,South,"Charlotte, NC",P204,Laptop Stand,34.5,1,34.5,credit_card,completed
